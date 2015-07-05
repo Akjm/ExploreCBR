@@ -1,0 +1,3548 @@
+[ {
+  "asset_id" : "BBQ731",
+  "location" : "ACTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BLACK MOUNTAIN PENINSULA DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.099613",
+    "latitude" : "-35.292266"
+  }
+}
+, {
+  "asset_id" : "BBQ424",
+  "location" : "ACTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BLACK MOUNTAIN PENINSULA DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.10111",
+    "latitude" : "-35.292454"
+  }
+}
+, {
+  "asset_id" : "BBQ485",
+  "location" : "ACTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BLACK MOUNTAIN PENINSULA DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.101107",
+    "latitude" : "-35.292389"
+  }
+}
+, {
+  "asset_id" : "BBQ441",
+  "location" : "ACTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "ACTON PARK DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.124752",
+    "latitude" : "-35.28631"
+  }
+}
+, {
+  "asset_id" : "BBQ23",
+  "location" : "ACTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BLACK MOUNTAIN PENINSULA DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.100139",
+    "latitude" : "-35.291606"
+  }
+}
+, {
+  "asset_id" : "BBQ394",
+  "location" : "ACTON",
+  "bbq_type" : "GAS",
+  "location_description" : "LADY DENMAN DRIVE ROAD VERGE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071927",
+    "latitude" : "-35.297903"
+  }
+}
+, {
+  "asset_id" : "BBQ442",
+  "location" : "ACTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "ACTON PARK DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.124418",
+    "latitude" : "-35.286194"
+  }
+}
+, {
+  "asset_id" : "BBQ21",
+  "location" : "ACTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BLACK MOUNTAIN PENINSULA DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.101434",
+    "latitude" : "-35.287188"
+  }
+}
+, {
+  "asset_id" : "BBQ14",
+  "location" : "AINSLIE",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "CORROBOREE PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.142377",
+    "latitude" : "-35.269006"
+  }
+}
+, {
+  "asset_id" : "BBQ392",
+  "location" : "AMAROO",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BIZANT STREET NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.135474",
+    "latitude" : "-35.173872"
+  }
+}
+, {
+  "asset_id" : "BBQ71",
+  "location" : "BARTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "TELOPEA PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.1372",
+    "latitude" : "-35.315552"
+  }
+}
+, {
+  "asset_id" : "BBQ73",
+  "location" : "BARTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "TELOPEA PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.137811",
+    "latitude" : "-35.314876"
+  }
+}
+, {
+  "asset_id" : "BBQ70",
+  "location" : "BARTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "TELOPEA PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.137298",
+    "latitude" : "-35.315637"
+  }
+}
+, {
+  "asset_id" : "BBQ126",
+  "location" : "BARTON SOUTH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BOWEN PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.13975",
+    "latitude" : "-35.30815"
+  }
+}
+, {
+  "asset_id" : "BBQ477",
+  "location" : "BARTON SOUTH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BOWEN PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.139931",
+    "latitude" : "-35.308015"
+  }
+}
+, {
+  "asset_id" : "BBQ125",
+  "location" : "BARTON SOUTH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "TELOPEA PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.137697",
+    "latitude" : "-35.314874"
+  }
+}
+, {
+  "asset_id" : "BBQ29",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LAKE GINNINDERRA WESTERN FORESHORES",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.062728",
+    "latitude" : "-35.227896"
+  }
+}
+, {
+  "asset_id" : "BBQ30",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LAKE GINNINDERRA WESTERN FORESHORES",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.063448",
+    "latitude" : "-35.227465"
+  }
+}
+, {
+  "asset_id" : "BBQ31",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LAKE GINNINDERRA WESTERN FORESHORES",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.063379",
+    "latitude" : "-35.227283"
+  }
+}
+, {
+  "asset_id" : "BBQ32",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LAKE GINNINDERRA WESTERN FORESHORES",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.063187",
+    "latitude" : "-35.227238"
+  }
+}
+, {
+  "asset_id" : "BBQ33",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LAKE GINNINDERRA WESTERN FORESHORES",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.063043",
+    "latitude" : "-35.225915"
+  }
+}
+, {
+  "asset_id" : "BBQ399",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LAKE GINNINDERRA WESTERN FORESHORES",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.06323",
+    "latitude" : "-35.225635"
+  }
+}
+, {
+  "asset_id" : "BBQ393",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "JOHN KNIGHT MEMORIAL PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073274",
+    "latitude" : "-35.233758"
+  }
+}
+, {
+  "asset_id" : "BBQ89",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "JOHN KNIGHT MEMORIAL PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.07426",
+    "latitude" : "-35.237871"
+  }
+}
+, {
+  "asset_id" : "BBQ475",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GINNINDERRA PENINSULA DISTRICT PARK WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.069131",
+    "latitude" : "-35.224587"
+  }
+}
+, {
+  "asset_id" : "BBQ444",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "JOHN KNIGHT MEMORIAL PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073366",
+    "latitude" : "-35.234753"
+  }
+}
+, {
+  "asset_id" : "BBQ443",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "JOHN KNIGHT MEMORIAL PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073355",
+    "latitude" : "-35.234384"
+  }
+}
+, {
+  "asset_id" : "BBQ440",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GINNINDERRA PENINSULA DISTRICT PARK WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.069421",
+    "latitude" : "-35.225813"
+  }
+}
+, {
+  "asset_id" : "BBQ439",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GINNINDERRA PENINSULA DISTRICT PARK WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.069598",
+    "latitude" : "-35.225735"
+  }
+}
+, {
+  "asset_id" : "BBQ437",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GINNINDERRA PENINSULA DISTRICT PARK EAST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.074211",
+    "latitude" : "-35.229031"
+  }
+}
+, {
+  "asset_id" : "BBQ438",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GINNINDERRA PENINSULA DISTRICT PARK EAST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.074029",
+    "latitude" : "-35.229117"
+  }
+}
+, {
+  "asset_id" : "BBQ132",
+  "location" : "BELCONNEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "JOHN KNIGHT MEMORIAL PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.074196",
+    "latitude" : "-35.235226"
+  }
+}
+, {
+  "asset_id" : "BBQ401",
+  "location" : "BONNER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BURNUM BURNUM CLOSE NEIGHBORHOOD OVAL",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.142476",
+    "latitude" : "-35.159347"
+  }
+}
+, {
+  "asset_id" : "BBQ479",
+  "location" : "BONNER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "FERNANDO STREET PEDESTRIAN PARKLAND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.136322",
+    "latitude" : "-35.161252"
+  }
+}
+, {
+  "asset_id" : "BBQ135",
+  "location" : "BONYTHON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BURGOYNE STREET NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071665",
+    "latitude" : "-35.426285"
+  }
+}
+, {
+  "asset_id" : "BBQ134",
+  "location" : "BONYTHON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "DERRINGTON CRESCENT PEDESTRIAN PARKLAND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071265",
+    "latitude" : "-35.429604"
+  }
+}
+, {
+  "asset_id" : "BBQ282",
+  "location" : "BOOTH",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK GLENDALE PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.997834",
+    "latitude" : "-35.680713"
+  }
+}
+, {
+  "asset_id" : "BBQ168",
+  "location" : "BOOTH",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK GLENDALE PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.998275",
+    "latitude" : "-35.681491"
+  }
+}
+, {
+  "asset_id" : "BBQ340",
+  "location" : "BOOTH",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK GLENDALE PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.997976",
+    "latitude" : "-35.680989"
+  }
+}
+, {
+  "asset_id" : "BBQ167",
+  "location" : "BOOTH",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK GLENDALE PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.997729",
+    "latitude" : "-35.680995"
+  }
+}
+, {
+  "asset_id" : "BBQ8",
+  "location" : "BRADDON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LOWANNA STREET - NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.133979",
+    "latitude" : "-35.264197"
+  }
+}
+, {
+  "asset_id" : "BBQ7",
+  "location" : "BRADDON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LOWANNA STREET - NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.133249",
+    "latitude" : "-35.264829"
+  }
+}
+, {
+  "asset_id" : "BBQ106",
+  "location" : "CAMPBELL",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "REMEMBERANCE PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.151269",
+    "latitude" : "-35.279479"
+  }
+}
+, {
+  "asset_id" : "BBQ105",
+  "location" : "CAMPBELL",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "REMEMBERANCE PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.151007",
+    "latitude" : "-35.27989"
+  }
+}
+, {
+  "asset_id" : "BBQ20",
+  "location" : "CAMPBELL",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "MOLONGLO REACH DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.167366",
+    "latitude" : "-35.304593"
+  }
+}
+, {
+  "asset_id" : "BBQ397",
+  "location" : "CASEY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "YEEND AVENUE NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.097284",
+    "latitude" : "-35.166509"
+  }
+}
+, {
+  "asset_id" : "BBQ390",
+  "location" : "CHIFLEY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SHANN PLACE NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.076248",
+    "latitude" : "-35.352855"
+  }
+}
+, {
+  "asset_id" : "BBQ15",
+  "location" : "CITY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GLEBE PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.136387",
+    "latitude" : "-35.283536"
+  }
+}
+, {
+  "asset_id" : "BBQ16",
+  "location" : "CITY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GLEBE PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.136694",
+    "latitude" : "-35.282415"
+  }
+}
+, {
+  "asset_id" : "BBQ17",
+  "location" : "CITY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GLEBE PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.13634",
+    "latitude" : "-35.281891"
+  }
+}
+, {
+  "asset_id" : "BBQ386",
+  "location" : "COOK",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "TEMPLETON STREET NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.062025",
+    "latitude" : "-35.259309"
+  }
+}
+, {
+  "asset_id" : "BBQ262",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER BEND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.939749",
+    "latitude" : "-35.32622"
+  }
+}
+, {
+  "asset_id" : "BBQ261",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER BEND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.939634",
+    "latitude" : "-35.326471"
+  }
+}
+, {
+  "asset_id" : "BBQ260",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER BEND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.939776",
+    "latitude" : "-35.32704"
+  }
+}
+, {
+  "asset_id" : "BBQ256",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER BEND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.940554",
+    "latitude" : "-35.326648"
+  }
+}
+, {
+  "asset_id" : "BBQ254",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER BEND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.94068",
+    "latitude" : "-35.326844"
+  }
+}
+, {
+  "asset_id" : "BBQ255",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER BEND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.940113",
+    "latitude" : "-35.326835"
+  }
+}
+, {
+  "asset_id" : "BBQ257",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER BEND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.938837",
+    "latitude" : "-35.327194"
+  }
+}
+, {
+  "asset_id" : "BBQ258",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER BEND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.93887",
+    "latitude" : "-35.327469"
+  }
+}
+, {
+  "asset_id" : "BBQ157",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER BEND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.938684",
+    "latitude" : "-35.327528"
+  }
+}
+, {
+  "asset_id" : "BBQ184",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947031",
+    "latitude" : "-35.325865"
+  }
+}
+, {
+  "asset_id" : "BBQ186",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947384",
+    "latitude" : "-35.32577"
+  }
+}
+, {
+  "asset_id" : "BBQ207",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946114",
+    "latitude" : "-35.326106"
+  }
+}
+, {
+  "asset_id" : "BBQ214",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.945923",
+    "latitude" : "-35.326278"
+  }
+}
+, {
+  "asset_id" : "BBQ215",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947066",
+    "latitude" : "-35.326146"
+  }
+}
+, {
+  "asset_id" : "BBQ216",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947931",
+    "latitude" : "-35.32602"
+  }
+}
+, {
+  "asset_id" : "BBQ217",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947802",
+    "latitude" : "-35.326094"
+  }
+}
+, {
+  "asset_id" : "BBQ218",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946639",
+    "latitude" : "-35.325993"
+  }
+}
+, {
+  "asset_id" : "BBQ219",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946764",
+    "latitude" : "-35.325934"
+  }
+}
+, {
+  "asset_id" : "BBQ220",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946885",
+    "latitude" : "-35.326191"
+  }
+}
+, {
+  "asset_id" : "BBQ221",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946517",
+    "latitude" : "-35.326019"
+  }
+}
+, {
+  "asset_id" : "BBQ245",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947649",
+    "latitude" : "-35.326044"
+  }
+}
+, {
+  "asset_id" : "BBQ455",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947611",
+    "latitude" : "-35.326045"
+  }
+}
+, {
+  "asset_id" : "BBQ246",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.948074",
+    "latitude" : "-35.325953"
+  }
+}
+, {
+  "asset_id" : "BBQ263",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946911",
+    "latitude" : "-35.325916"
+  }
+}
+, {
+  "asset_id" : "BBQ266",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947232",
+    "latitude" : "-35.325808"
+  }
+}
+, {
+  "asset_id" : "BBQ267",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947127",
+    "latitude" : "-35.325829"
+  }
+}
+, {
+  "asset_id" : "BBQ323",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947456",
+    "latitude" : "-35.326089"
+  }
+}
+, {
+  "asset_id" : "BBQ454",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947488",
+    "latitude" : "-35.326078"
+  }
+}
+, {
+  "asset_id" : "BBQ324",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946283",
+    "latitude" : "-35.326076"
+  }
+}
+, {
+  "asset_id" : "BBQ352",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.947255",
+    "latitude" : "-35.326104"
+  }
+}
+, {
+  "asset_id" : "BBQ347",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946395",
+    "latitude" : "-35.326049"
+  }
+}
+, {
+  "asset_id" : "BBQ365",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946981",
+    "latitude" : "-35.326119"
+  }
+}
+, {
+  "asset_id" : "BBQ453",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "GAS",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.946968",
+    "latitude" : "-35.326161"
+  }
+}
+, {
+  "asset_id" : "BBQ377",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.948567",
+    "latitude" : "-35.325044"
+  }
+}
+, {
+  "asset_id" : "BBQ313",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST SHELTER 1",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.950989",
+    "latitude" : "-35.244347"
+  }
+}
+, {
+  "asset_id" : "BBQ173",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST SHELTER 2",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.950978",
+    "latitude" : "-35.244834"
+  }
+}
+, {
+  "asset_id" : "BBQ252",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST SHELTER 1",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.950994",
+    "latitude" : "-35.244356"
+  }
+}
+, {
+  "asset_id" : "BBQ174",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST SHELTER 2",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951009",
+    "latitude" : "-35.244833"
+  }
+}
+, {
+  "asset_id" : "BBQ319",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST SHELTER 3",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951424",
+    "latitude" : "-35.246111"
+  }
+}
+, {
+  "asset_id" : "BBQ209",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST SHELTER 3",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951412",
+    "latitude" : "-35.246097"
+  }
+}
+, {
+  "asset_id" : "BBQ175",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951454",
+    "latitude" : "-35.24507"
+  }
+}
+, {
+  "asset_id" : "BBQ176",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951605",
+    "latitude" : "-35.245402"
+  }
+}
+, {
+  "asset_id" : "BBQ177",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951418",
+    "latitude" : "-35.244894"
+  }
+}
+, {
+  "asset_id" : "BBQ185",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.948613",
+    "latitude" : "-35.325005"
+  }
+}
+, {
+  "asset_id" : "BBQ208",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951375",
+    "latitude" : "-35.245707"
+  }
+}
+, {
+  "asset_id" : "BBQ211",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.95178",
+    "latitude" : "-35.245856"
+  }
+}
+, {
+  "asset_id" : "BBQ251",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951353",
+    "latitude" : "-35.244814"
+  }
+}
+, {
+  "asset_id" : "BBQ265",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.948453",
+    "latitude" : "-35.3255"
+  }
+}
+, {
+  "asset_id" : "BBQ269",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.948702",
+    "latitude" : "-35.32521"
+  }
+}
+, {
+  "asset_id" : "BBQ304",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951429",
+    "latitude" : "-35.245004"
+  }
+}
+, {
+  "asset_id" : "BBQ311",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "SWAMP CREEK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.950942",
+    "latitude" : "-35.243699"
+  }
+}
+, {
+  "asset_id" : "BBQ312",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "SWAMP CREEK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951187",
+    "latitude" : "-35.24295"
+  }
+}
+, {
+  "asset_id" : "BBQ314",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "SWAMP CREEK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.950912",
+    "latitude" : "-35.243698"
+  }
+}
+, {
+  "asset_id" : "BBQ315",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "SWAMP CREEK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951185",
+    "latitude" : "-35.242743"
+  }
+}
+, {
+  "asset_id" : "BBQ316",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951382",
+    "latitude" : "-35.245797"
+  }
+}
+, {
+  "asset_id" : "BBQ317",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.95164",
+    "latitude" : "-35.245565"
+  }
+}
+, {
+  "asset_id" : "BBQ318",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA WEST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951403",
+    "latitude" : "-35.245887"
+  }
+}
+, {
+  "asset_id" : "BBQ325",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.948416",
+    "latitude" : "-35.325206"
+  }
+}
+, {
+  "asset_id" : "BBQ326",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.948608",
+    "latitude" : "-35.325306"
+  }
+}
+, {
+  "asset_id" : "BBQ346",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.948255",
+    "latitude" : "-35.325674"
+  }
+}
+, {
+  "asset_id" : "BBQ222",
+  "location" : "COTTER RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BULLS HEAD SHELTER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.804514",
+    "latitude" : "-35.387776"
+  }
+}
+, {
+  "asset_id" : "BBQ371",
+  "location" : "COTTER RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BULLS HEAD PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.804498",
+    "latitude" : "-35.386788"
+  }
+}
+, {
+  "asset_id" : "BBQ338",
+  "location" : "COTTER RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BULLS HEAD PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.804459",
+    "latitude" : "-35.387149"
+  }
+}
+, {
+  "asset_id" : "BBQ305",
+  "location" : "COTTER RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BULLS HEAD PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.804313",
+    "latitude" : "-35.387256"
+  }
+}
+, {
+  "asset_id" : "BBQ339",
+  "location" : "COTTER RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BULLS HEAD PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.804038",
+    "latitude" : "-35.387667"
+  }
+}
+, {
+  "asset_id" : "BBQ152",
+  "location" : "COTTER RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BENDORA PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.82795",
+    "latitude" : "-35.442386"
+  }
+}
+, {
+  "asset_id" : "BBQ344",
+  "location" : "COTTER RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BENDORA PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.828318",
+    "latitude" : "-35.44251"
+  }
+}
+, {
+  "asset_id" : "BBQ224",
+  "location" : "COTTER RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BENDORA PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.828301",
+    "latitude" : "-35.442303"
+  }
+}
+, {
+  "asset_id" : "BBQ400",
+  "location" : "CRACE",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "NARDEN STREET COMMUNITY PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.102208",
+    "latitude" : "-35.201412"
+  }
+}
+, {
+  "asset_id" : "BBQ130",
+  "location" : "DUNLOP",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "JAMES HARRISON STREET NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.016913",
+    "latitude" : "-35.191165"
+  }
+}
+, {
+  "asset_id" : "BBQ94",
+  "location" : "FADDEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "FADDEN PINES DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.120249",
+    "latitude" : "-35.411655"
+  }
+}
+, {
+  "asset_id" : "BBQ95",
+  "location" : "FADDEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "FADDEN PINES DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.120029",
+    "latitude" : "-35.41042"
+  }
+}
+, {
+  "asset_id" : "BBQ96",
+  "location" : "FADDEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "FADDEN PINES DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.119364",
+    "latitude" : "-35.410917"
+  }
+}
+, {
+  "asset_id" : "BBQ98",
+  "location" : "FADDEN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "FADDEN PINES DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.121089",
+    "latitude" : "-35.411293"
+  }
+}
+, {
+  "asset_id" : "BBQ404",
+  "location" : "FORDE",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "VOLPATO STREET NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.148979",
+    "latitude" : "-35.160474"
+  }
+}
+, {
+  "asset_id" : "BBQ391",
+  "location" : "FORDE",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "TOM NICHOLAS CRESCENT PEDESTRIAN PARKLAND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.144966",
+    "latitude" : "-35.172395"
+  }
+}
+, {
+  "asset_id" : "BBQ398",
+  "location" : "FORDE",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PAHLMAN STREET NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.146596",
+    "latitude" : "-35.168163"
+  }
+}
+, {
+  "asset_id" : "BBQ396",
+  "location" : "FORDE",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BRUCE DITTMAR STREET CENTRAL NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.144996",
+    "latitude" : "-35.176041"
+  }
+}
+, {
+  "asset_id" : "BBQ389",
+  "location" : "FORDE",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "RAY ELLIS CRESCENT TOWN PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.142059",
+    "latitude" : "-35.172513"
+  }
+}
+, {
+  "asset_id" : "BBQ402",
+  "location" : "FRANKLIN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "CLARE BURTON CIRCUIT PEDESTRIAN PARKLAND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.147774",
+    "latitude" : "-35.200146"
+  }
+}
+, {
+  "asset_id" : "BBQ128",
+  "location" : "FYSHWICK",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "MOLONGLO REACH WATER SKI",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.174677",
+    "latitude" : "-35.30499"
+  }
+}
+, {
+  "asset_id" : "BBQ127",
+  "location" : "FYSHWICK",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "MOLONGLO REACH WATER SKI",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.17469",
+    "latitude" : "-35.30478"
+  }
+}
+, {
+  "asset_id" : "BBQ236",
+  "location" : "GOOGONG",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GOOGONG SOUTH",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.257675",
+    "latitude" : "-35.511813"
+  }
+}
+, {
+  "asset_id" : "BBQ303",
+  "location" : "GOOGONG",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GOOGONG SOUTH",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.258184",
+    "latitude" : "-35.511472"
+  }
+}
+, {
+  "asset_id" : "BBQ179",
+  "location" : "GOOGONG",
+  "bbq_type" : "GAS",
+  "location_description" : "GOOGONG NORTH - SHELTER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.261817",
+    "latitude" : "-35.410752"
+  }
+}
+, {
+  "asset_id" : "BBQ180",
+  "location" : "GOOGONG",
+  "bbq_type" : "GAS",
+  "location_description" : "GOOGONG NORTH",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.261399",
+    "latitude" : "-35.410105"
+  }
+}
+, {
+  "asset_id" : "BBQ291",
+  "location" : "GOOGONG",
+  "bbq_type" : "GAS",
+  "location_description" : "GOOGONG NORTH",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.260678",
+    "latitude" : "-35.410643"
+  }
+}
+, {
+  "asset_id" : "BBQ292",
+  "location" : "GOOGONG",
+  "bbq_type" : "GAS",
+  "location_description" : "GOOGONG NORTH",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.260947",
+    "latitude" : "-35.410449"
+  }
+}
+, {
+  "asset_id" : "BBQ419",
+  "location" : "GOOGONG",
+  "bbq_type" : "GAS",
+  "location_description" : "GOOGONG NORTH",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.25975",
+    "latitude" : "-35.411459"
+  }
+}
+, {
+  "asset_id" : "BBQ418",
+  "location" : "GOOGONG",
+  "bbq_type" : "GAS",
+  "location_description" : "GOOGONG BOAT RAMP",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.258419",
+    "latitude" : "-35.430255"
+  }
+}
+, {
+  "asset_id" : "BBQ288",
+  "location" : "GOOGONG",
+  "bbq_type" : "GAS",
+  "location_description" : "GOOGONG - TIN HUT",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.258807",
+    "latitude" : "-35.497342"
+  }
+}
+, {
+  "asset_id" : "BBQ123",
+  "location" : "GORDON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "POINT HUT DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.084313",
+    "latitude" : "-35.455778"
+  }
+}
+, {
+  "asset_id" : "BBQ66",
+  "location" : "GORDON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "POINT HUT DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.084727",
+    "latitude" : "-35.456044"
+  }
+}
+, {
+  "asset_id" : "BBQ133",
+  "location" : "GORDON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "POINT HUT DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.083915",
+    "latitude" : "-35.456559"
+  }
+}
+, {
+  "asset_id" : "BBQ102",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LAKE TUGGERANONG DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.069794",
+    "latitude" : "-35.408426"
+  }
+}
+, {
+  "asset_id" : "BBQ104",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LAKE TUGGERANONG DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071507",
+    "latitude" : "-35.40518"
+  }
+}
+, {
+  "asset_id" : "BBQ103",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LAKE TUGGERANONG DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.07057",
+    "latitude" : "-35.40722"
+  }
+}
+, {
+  "asset_id" : "BBQ65",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "TUGGERANONG TOWN PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.064734",
+    "latitude" : "-35.410761"
+  }
+}
+, {
+  "asset_id" : "BBQ155",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PINE ISLAND CENTRAL",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.062231",
+    "latitude" : "-35.427589"
+  }
+}
+, {
+  "asset_id" : "BBQ249",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PINE ISLAND CENTRAL",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.06089",
+    "latitude" : "-35.427722"
+  }
+}
+, {
+  "asset_id" : "BBQ248",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PINE ISLAND CENTRAL",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.060722",
+    "latitude" : "-35.42745"
+  }
+}
+, {
+  "asset_id" : "BBQ435",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "TUGGERANONG TOWN PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.065091",
+    "latitude" : "-35.4099"
+  }
+}
+, {
+  "asset_id" : "BBQ296",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PINE ISLAND SOUTH",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.066173",
+    "latitude" : "-35.432464"
+  }
+}
+, {
+  "asset_id" : "BBQ287",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PINE ISLAND SOUTH",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.066863",
+    "latitude" : "-35.432916"
+  }
+}
+, {
+  "asset_id" : "BBQ274",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PINE ISLAND CENTRAL",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.059826",
+    "latitude" : "-35.427261"
+  }
+}
+, {
+  "asset_id" : "BBQ247",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PINE ISLAND CENTRAL",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.060257",
+    "latitude" : "-35.427501"
+  }
+}
+, {
+  "asset_id" : "BBQ156",
+  "location" : "GREENWAY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PINE ISLAND CENTRAL",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.061547",
+    "latitude" : "-35.427455"
+  }
+}
+, {
+  "asset_id" : "BBQ53",
+  "location" : "GUNGAHLIN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "YERRABI DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.130643",
+    "latitude" : "-35.179366"
+  }
+}
+, {
+  "asset_id" : "BBQ484",
+  "location" : "GUNGAHLIN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "YERRABI DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.130774",
+    "latitude" : "-35.178801"
+  }
+}
+, {
+  "asset_id" : "BBQ476",
+  "location" : "GUNGAHLIN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "YERRABI DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.130325",
+    "latitude" : "-35.179115"
+  }
+}
+, {
+  "asset_id" : "BBQ483",
+  "location" : "GUNGAHLIN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GUNGAHLIN SPORTSGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.126278",
+    "latitude" : "-35.185061"
+  }
+}
+, {
+  "asset_id" : "BBQ55",
+  "location" : "GUNGAHLIN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "YERRABI DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.130852",
+    "latitude" : "-35.179209"
+  }
+}
+, {
+  "asset_id" : "BBQ54",
+  "location" : "GUNGAHLIN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "YERRABI DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.130882",
+    "latitude" : "-35.179247"
+  }
+}
+, {
+  "asset_id" : "BBQ56",
+  "location" : "GUNGAHLIN",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "YERRABI DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.130617",
+    "latitude" : "-35.179329"
+  }
+}
+, {
+  "asset_id" : "BBQ42",
+  "location" : "HALL",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GLADSTONE STREET PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.069711",
+    "latitude" : "-35.172104"
+  }
+}
+, {
+  "asset_id" : "BBQ43",
+  "location" : "HALL",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "GLADSTONE STREET PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.069825",
+    "latitude" : "-35.171753"
+  }
+}
+, {
+  "asset_id" : "BBQ131",
+  "location" : "HARRISON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "TANAMI STREET NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.15792",
+    "latitude" : "-35.198422"
+  }
+}
+, {
+  "asset_id" : "BBQ5",
+  "location" : "HUGHES",
+  "bbq_type" : "WOOD",
+  "location_description" : "GROOM STREET - PEDESTRIAN PARKLAND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.088974",
+    "latitude" : "-35.332875"
+  }
+}
+, {
+  "asset_id" : "BBQ384",
+  "location" : "KAMBAH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BODDINGTON CRESCENT NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.051903",
+    "latitude" : "-35.383169"
+  }
+}
+, {
+  "asset_id" : "BBQ60",
+  "location" : "KAMBAH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "KAMBAH DISTRICT PARK WOOLSHED",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.060559",
+    "latitude" : "-35.388653"
+  }
+}
+, {
+  "asset_id" : "BBQ61",
+  "location" : "KAMBAH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "KAMBAH DISTRICT PARK WOOLSHED",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.060463",
+    "latitude" : "-35.388597"
+  }
+}
+, {
+  "asset_id" : "BBQ433",
+  "location" : "KAMBAH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "KAMBAH DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.06213",
+    "latitude" : "-35.392047"
+  }
+}
+, {
+  "asset_id" : "BBQ434",
+  "location" : "KAMBAH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "KAMBAH DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.062029",
+    "latitude" : "-35.392172"
+  }
+}
+, {
+  "asset_id" : "BBQ383",
+  "location" : "KAMBAH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SUMMERLAND CIRCUIT NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071294",
+    "latitude" : "-35.385594"
+  }
+}
+, {
+  "asset_id" : "BBQ432",
+  "location" : "KAMBAH",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "KAMBAH DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.062164",
+    "latitude" : "-35.391864"
+  }
+}
+, {
+  "asset_id" : "BBQ486",
+  "location" : "KINGSTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "NORGROVE NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.14675",
+    "latitude" : "-35.315017"
+  }
+}
+, {
+  "asset_id" : "BBQ160",
+  "location" : "KOWEN",
+  "bbq_type" : "GAS",
+  "location_description" : "MOLONGLO GORGE PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.24971",
+    "latitude" : "-35.328583"
+  }
+}
+, {
+  "asset_id" : "BBQ142",
+  "location" : "KOWEN",
+  "bbq_type" : "GAS",
+  "location_description" : "MOLONGLO GORGE NATURE RESERVE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.246546",
+    "latitude" : "-35.322216"
+  }
+}
+, {
+  "asset_id" : "BBQ198",
+  "location" : "KOWEN",
+  "bbq_type" : "WOOD",
+  "location_description" : "MOLONGLO GORGE NATURE RESERVE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.245355",
+    "latitude" : "-35.322634"
+  }
+}
+, {
+  "asset_id" : "BBQ237",
+  "location" : "KOWEN",
+  "bbq_type" : "GAS",
+  "location_description" : "OLD KOWEN HOMESTEAD",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.287211",
+    "latitude" : "-35.288799"
+  }
+}
+, {
+  "asset_id" : "BBQ242",
+  "location" : "KOWEN",
+  "bbq_type" : "GAS",
+  "location_description" : "MOLONGLO GORGE NATURE RESERVE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.248579",
+    "latitude" : "-35.327904"
+  }
+}
+, {
+  "asset_id" : "BBQ44",
+  "location" : "LATHAM",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "UMBAGONG DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.031092",
+    "latitude" : "-35.211658"
+  }
+}
+, {
+  "asset_id" : "BBQ50",
+  "location" : "MCKELLAR",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "PALMERVILLE HERITAGE PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.085572",
+    "latitude" : "-35.211746"
+  }
+}
+, {
+  "asset_id" : "BBQ451",
+  "location" : "MOLONGLO VALLEY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "NATIONAL ARBORETUM OF CANBERRA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.076812",
+    "latitude" : "-35.287024"
+  }
+}
+, {
+  "asset_id" : "BBQ452",
+  "location" : "MOLONGLO VALLEY",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "NATIONAL ARBORETUM OF CANBERRA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.076843",
+    "latitude" : "-35.287042"
+  }
+}
+, {
+  "asset_id" : "BBQ231",
+  "location" : "MOUNT CLEAR",
+  "bbq_type" : "WOOD",
+  "location_description" : "MT CLEAR CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.010606",
+    "latitude" : "-35.864617"
+  }
+}
+, {
+  "asset_id" : "BBQ480",
+  "location" : "MOUNT CLEAR",
+  "bbq_type" : "WOOD",
+  "location_description" : "MT CLEAR CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.010724",
+    "latitude" : "-35.864774"
+  }
+}
+, {
+  "asset_id" : "BBQ349",
+  "location" : "MOUNT CLEAR",
+  "bbq_type" : "WOOD",
+  "location_description" : "MT CLEAR CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.011151",
+    "latitude" : "-35.864784"
+  }
+}
+, {
+  "asset_id" : "BBQ482",
+  "location" : "MOUNT CLEAR",
+  "bbq_type" : "WOOD",
+  "location_description" : "MOUNT CLEAR CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.010594",
+    "latitude" : "-35.865058"
+  }
+}
+, {
+  "asset_id" : "BBQ145",
+  "location" : "MOUNT CLEAR",
+  "bbq_type" : "WOOD",
+  "location_description" : "MOUNT CLEAR HORSE YARDS",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.015321",
+    "latitude" : "-35.868002"
+  }
+}
+, {
+  "asset_id" : "BBQ166",
+  "location" : "MOUNT CLEAR",
+  "bbq_type" : "WOOD",
+  "location_description" : "MT CLEAR CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.010997",
+    "latitude" : "-35.864493"
+  }
+}
+, {
+  "asset_id" : "BBQ146",
+  "location" : "MOUNT CLEAR",
+  "bbq_type" : "WOOD",
+  "location_description" : "MT CLEAR CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.010922",
+    "latitude" : "-35.865138"
+  }
+}
+, {
+  "asset_id" : "BBQ147",
+  "location" : "MOUNT CLEAR",
+  "bbq_type" : "WOOD",
+  "location_description" : "MT CLEAR CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.010804",
+    "latitude" : "-35.865319"
+  }
+}
+, {
+  "asset_id" : "BBQ481",
+  "location" : "MOUNT CLEAR",
+  "bbq_type" : "WOOD",
+  "location_description" : "MOUNT CLEAR CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.010409",
+    "latitude" : "-35.864781"
+  }
+}
+, {
+  "asset_id" : "BBQ99",
+  "location" : "NICHOLLS",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "CANDLEBARK CLOSE NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.110101",
+    "latitude" : "-35.191971"
+  }
+}
+, {
+  "asset_id" : "BBQ403",
+  "location" : "OAKS ESTATE",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "RIVER STREET NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.227464",
+    "latitude" : "-35.341674"
+  }
+}
+, {
+  "asset_id" : "BBQ343",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.93822",
+    "latitude" : "-35.480897"
+  }
+}
+, {
+  "asset_id" : "BBQ189",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "GAS",
+  "location_description" : "NNP VIC",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.065709",
+    "latitude" : "-35.530783"
+  }
+}
+, {
+  "asset_id" : "BBQ342",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.939596",
+    "latitude" : "-35.481283"
+  }
+}
+, {
+  "asset_id" : "BBQ299",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.93995",
+    "latitude" : "-35.480865"
+  }
+}
+, {
+  "asset_id" : "BBQ298",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.94005",
+    "latitude" : "-35.481069"
+  }
+}
+, {
+  "asset_id" : "BBQ294",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.940249",
+    "latitude" : "-35.481066"
+  }
+}
+, {
+  "asset_id" : "BBQ297",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.940357",
+    "latitude" : "-35.481086"
+  }
+}
+, {
+  "asset_id" : "BBQ159",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "THOMPSONS FLAT PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.938376",
+    "latitude" : "-35.326293"
+  }
+}
+, {
+  "asset_id" : "BBQ415",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "GAS",
+  "location_description" : "FLINTS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.919444",
+    "latitude" : "-35.459077"
+  }
+}
+, {
+  "asset_id" : "BBQ414",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "SHEEDYS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929638",
+    "latitude" : "-35.444374"
+  }
+}
+, {
+  "asset_id" : "BBQ408",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SHEEDYS PICNIC AREA - SHELTER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929269",
+    "latitude" : "-35.443385"
+  }
+}
+, {
+  "asset_id" : "BBQ406",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SHEEDYS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.928827",
+    "latitude" : "-35.44379"
+  }
+}
+, {
+  "asset_id" : "BBQ405",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SHEEDYS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929224",
+    "latitude" : "-35.443821"
+  }
+}
+, {
+  "asset_id" : "BBQ328",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "SHEEDYS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929418",
+    "latitude" : "-35.444405"
+  }
+}
+, {
+  "asset_id" : "BBQ300",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "SHEEDYS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.928535",
+    "latitude" : "-35.444602"
+  }
+}
+, {
+  "asset_id" : "BBQ276",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "SHEEDYS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.928723",
+    "latitude" : "-35.44442"
+  }
+}
+, {
+  "asset_id" : "BBQ449",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "DISCOVERY PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.930129",
+    "latitude" : "-35.442681"
+  }
+}
+, {
+  "asset_id" : "BBQ154",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SHEEDYS PICNIC AREA - SHELTER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929316",
+    "latitude" : "-35.443399"
+  }
+}
+, {
+  "asset_id" : "BBQ446",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SHEEDYS PICNIC AREA - SHELTER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929302",
+    "latitude" : "-35.443395"
+  }
+}
+, {
+  "asset_id" : "BBQ447",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SHEEDYS PICNIC AREA - SHELTER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929281",
+    "latitude" : "-35.44339"
+  }
+}
+, {
+  "asset_id" : "BBQ448",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SHEEDYS PICNIC AREA - SHELTER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929236",
+    "latitude" : "-35.443367"
+  }
+}
+, {
+  "asset_id" : "BBQ409",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "SHEEDYS PICNIC AREA - SHELTER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929248",
+    "latitude" : "-35.443374"
+  }
+}
+, {
+  "asset_id" : "BBQ450",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "SHEEDYS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.92855",
+    "latitude" : "-35.444528"
+  }
+}
+, {
+  "asset_id" : "BBQ417",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "GAS",
+  "location_description" : "COTTER CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.948537",
+    "latitude" : "-35.325396"
+  }
+}
+, {
+  "asset_id" : "BBQ421",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.938774",
+    "latitude" : "-35.481102"
+  }
+}
+, {
+  "asset_id" : "BBQ423",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.939842",
+    "latitude" : "-35.480761"
+  }
+}
+, {
+  "asset_id" : "BBQ422",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.938879",
+    "latitude" : "-35.480831"
+  }
+}
+, {
+  "asset_id" : "BBQ271",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "GAS",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.938593",
+    "latitude" : "-35.480617"
+  }
+}
+, {
+  "asset_id" : "BBQ341",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.939647",
+    "latitude" : "-35.481169"
+  }
+}
+, {
+  "asset_id" : "BBQ420",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "GAS",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.939181",
+    "latitude" : "-35.480842"
+  }
+}
+, {
+  "asset_id" : "BBQ259",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.941035",
+    "latitude" : "-35.324165"
+  }
+}
+, {
+  "asset_id" : "BBQ321",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.940972",
+    "latitude" : "-35.32371"
+  }
+}
+, {
+  "asset_id" : "BBQ264",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.941515",
+    "latitude" : "-35.323472"
+  }
+}
+, {
+  "asset_id" : "BBQ322",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.9412",
+    "latitude" : "-35.323388"
+  }
+}
+, {
+  "asset_id" : "BBQ181",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.941452",
+    "latitude" : "-35.323233"
+  }
+}
+, {
+  "asset_id" : "BBQ183",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.941978",
+    "latitude" : "-35.322984"
+  }
+}
+, {
+  "asset_id" : "BBQ182",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.941848",
+    "latitude" : "-35.322788"
+  }
+}
+, {
+  "asset_id" : "BBQ353",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.942114",
+    "latitude" : "-35.32283"
+  }
+}
+, {
+  "asset_id" : "BBQ206",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.942197",
+    "latitude" : "-35.322757"
+  }
+}
+, {
+  "asset_id" : "BBQ366",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "THE COTTER AVENUE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.94115",
+    "latitude" : "-35.323015"
+  }
+}
+, {
+  "asset_id" : "BBQ270",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.940782",
+    "latitude" : "-35.480862"
+  }
+}
+, {
+  "asset_id" : "BBQ196",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.938339",
+    "latitude" : "-35.480779"
+  }
+}
+, {
+  "asset_id" : "BBQ195",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WOODS RESERVE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.938368",
+    "latitude" : "-35.481005"
+  }
+}
+, {
+  "asset_id" : "BBQ473",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "GAS",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.934278",
+    "latitude" : "-35.487914"
+  }
+}
+, {
+  "asset_id" : "BBQ226",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "GREENS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.926005",
+    "latitude" : "-35.443219"
+  }
+}
+, {
+  "asset_id" : "BBQ225",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BLEWITTS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.924121",
+    "latitude" : "-35.444424"
+  }
+}
+, {
+  "asset_id" : "BBQ307",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BLEWITTS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.92352",
+    "latitude" : "-35.44409"
+  }
+}
+, {
+  "asset_id" : "BBQ230",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BLEWITTS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.923946",
+    "latitude" : "-35.444324"
+  }
+}
+, {
+  "asset_id" : "BBQ331",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "BLEWITTS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.923484",
+    "latitude" : "-35.444347"
+  }
+}
+, {
+  "asset_id" : "BBQ280",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "GREENS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.926184",
+    "latitude" : "-35.442968"
+  }
+}
+, {
+  "asset_id" : "BBQ281",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "GREENS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.926476",
+    "latitude" : "-35.44321"
+  }
+}
+, {
+  "asset_id" : "BBQ412",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "WEBBS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.926681",
+    "latitude" : "-35.440621"
+  }
+}
+, {
+  "asset_id" : "BBQ411",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "WEBBS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.926226",
+    "latitude" : "-35.441358"
+  }
+}
+, {
+  "asset_id" : "BBQ279",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WEBBS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.927188",
+    "latitude" : "-35.440315"
+  }
+}
+, {
+  "asset_id" : "BBQ278",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WEBBS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.926942",
+    "latitude" : "-35.440203"
+  }
+}
+, {
+  "asset_id" : "BBQ202",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "WEBBS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.926497",
+    "latitude" : "-35.440895"
+  }
+}
+, {
+  "asset_id" : "BBQ413",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "WEBBS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.927892",
+    "latitude" : "-35.440039"
+  }
+}
+, {
+  "asset_id" : "BBQ153",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "WOOD",
+  "location_description" : "SHEEDYS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929726",
+    "latitude" : "-35.444665"
+  }
+}
+, {
+  "asset_id" : "BBQ410",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "WEBBS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.92605",
+    "latitude" : "-35.441743"
+  }
+}
+, {
+  "asset_id" : "BBQ148",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "GAS",
+  "location_description" : "MURRAYS CORNER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.952534",
+    "latitude" : "-35.364042"
+  }
+}
+, {
+  "asset_id" : "BBQ149",
+  "location" : "PADDYS RIVER",
+  "bbq_type" : "GAS",
+  "location_description" : "MURRAYS CORNER",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.952178",
+    "latitude" : "-35.363195"
+  }
+}
+, {
+  "asset_id" : "BBQ436",
+  "location" : "PHILLIP",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "EDISON DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.090026",
+    "latitude" : "-35.341353"
+  }
+}
+, {
+  "asset_id" : "BBQ425",
+  "location" : "PHILLIP",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "EDISON DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.090271",
+    "latitude" : "-35.34133"
+  }
+}
+, {
+  "asset_id" : "BBQ460",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988532",
+    "latitude" : "-35.662797"
+  }
+}
+, {
+  "asset_id" : "BBQ459",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "GAS",
+  "location_description" : "NAMADGI NATIONAL PARK ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988872",
+    "latitude" : "-35.661963"
+  }
+}
+, {
+  "asset_id" : "BBQ462",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988552",
+    "latitude" : "-35.662954"
+  }
+}
+, {
+  "asset_id" : "BBQ463",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988798",
+    "latitude" : "-35.66299"
+  }
+}
+, {
+  "asset_id" : "BBQ464",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988793",
+    "latitude" : "-35.662584"
+  }
+}
+, {
+  "asset_id" : "BBQ465",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988578",
+    "latitude" : "-35.662465"
+  }
+}
+, {
+  "asset_id" : "BBQ466",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988388",
+    "latitude" : "-35.662549"
+  }
+}
+, {
+  "asset_id" : "BBQ467",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988251",
+    "latitude" : "-35.662031"
+  }
+}
+, {
+  "asset_id" : "BBQ469",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.9892",
+    "latitude" : "-35.661711"
+  }
+}
+, {
+  "asset_id" : "BBQ468",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988718",
+    "latitude" : "-35.661703"
+  }
+}
+, {
+  "asset_id" : "BBQ470",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988788",
+    "latitude" : "-35.66144"
+  }
+}
+, {
+  "asset_id" : "BBQ471",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.989135",
+    "latitude" : "-35.661556"
+  }
+}
+, {
+  "asset_id" : "BBQ472",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988476",
+    "latitude" : "-35.66211"
+  }
+}
+, {
+  "asset_id" : "BBQ372",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "GAS",
+  "location_description" : "ORRORAL TRACKING STATION",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.955743",
+    "latitude" : "-35.628721"
+  }
+}
+, {
+  "asset_id" : "BBQ416",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "GAS",
+  "location_description" : "ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988909",
+    "latitude" : "-35.661993"
+  }
+}
+, {
+  "asset_id" : "BBQ461",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "NAMADGI NATIONAL PARK, ORRORAL CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988792",
+    "latitude" : "-35.662885"
+  }
+}
+, {
+  "asset_id" : "BBQ233",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "ORRORAL PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.9891",
+    "latitude" : "-35.664955"
+  }
+}
+, {
+  "asset_id" : "BBQ234",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "ORRORAL PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988965",
+    "latitude" : "-35.665194"
+  }
+}
+, {
+  "asset_id" : "BBQ235",
+  "location" : "RENDEZVOUS CREEK",
+  "bbq_type" : "WOOD",
+  "location_description" : "ORRORAL PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.988836",
+    "latitude" : "-35.664825"
+  }
+}
+, {
+  "asset_id" : "BBQ388",
+  "location" : "RIVETT",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "BANGALAY CRESCENT NEIGHBOURHOOD PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.038192",
+    "latitude" : "-35.347715"
+  }
+}
+, {
+  "asset_id" : "BBQ381",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "CASUARINA SANDS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.954151",
+    "latitude" : "-35.319782"
+  }
+}
+, {
+  "asset_id" : "BBQ268",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "CASUARINA SANDS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.953385",
+    "latitude" : "-35.319832"
+  }
+}
+, {
+  "asset_id" : "BBQ385",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "CASUARINA SANDS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.953465",
+    "latitude" : "-35.319841"
+  }
+}
+, {
+  "asset_id" : "BBQ382",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "CASUARINA SANDS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.954079",
+    "latitude" : "-35.319802"
+  }
+}
+, {
+  "asset_id" : "BBQ200",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "CASUARINA SANDS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.954704",
+    "latitude" : "-35.319908"
+  }
+}
+, {
+  "asset_id" : "BBQ253",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA EAST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.952741",
+    "latitude" : "-35.248608"
+  }
+}
+, {
+  "asset_id" : "BBQ320",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "CASUARINA SANDS PICNIC AREA",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.954339",
+    "latitude" : "-35.319801"
+  }
+}
+, {
+  "asset_id" : "BBQ250",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA EAST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.952437",
+    "latitude" : "-35.248429"
+  }
+}
+, {
+  "asset_id" : "BBQ375",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA EAST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.952509",
+    "latitude" : "-35.249009"
+  }
+}
+, {
+  "asset_id" : "BBQ376",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA EAST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.952065",
+    "latitude" : "-35.249324"
+  }
+}
+, {
+  "asset_id" : "BBQ359",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA EAST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951811",
+    "latitude" : "-35.249817"
+  }
+}
+, {
+  "asset_id" : "BBQ350",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA EAST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.951336",
+    "latitude" : "-35.250238"
+  }
+}
+, {
+  "asset_id" : "BBQ354",
+  "location" : "STROMLO (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "URIARRA EAST",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.953331",
+    "latitude" : "-35.246477"
+  }
+}
+, {
+  "asset_id" : "BBQ362",
+  "location" : "TENNENT",
+  "bbq_type" : "WOOD",
+  "location_description" : "HONEYSUCKLE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.974561",
+    "latitude" : "-35.582929"
+  }
+}
+, {
+  "asset_id" : "BBQ334",
+  "location" : "TENNENT",
+  "bbq_type" : "WOOD",
+  "location_description" : "HONEYSUCKLE CAMPGROUND - MERCURY",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.97545",
+    "latitude" : "-35.583074"
+  }
+}
+, {
+  "asset_id" : "BBQ140",
+  "location" : "TENNENT",
+  "bbq_type" : "WOOD",
+  "location_description" : "HONEYSUCKLE CAMPGROUND - APOLLO",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.975246",
+    "latitude" : "-35.58365"
+  }
+}
+, {
+  "asset_id" : "BBQ295",
+  "location" : "TENNENT",
+  "bbq_type" : "WOOD",
+  "location_description" : "HONEYSUCKLE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.974072",
+    "latitude" : "-35.582803"
+  }
+}
+, {
+  "asset_id" : "BBQ364",
+  "location" : "TENNENT",
+  "bbq_type" : "WOOD",
+  "location_description" : "HONEYSUCKLE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.97424",
+    "latitude" : "-35.582758"
+  }
+}
+, {
+  "asset_id" : "BBQ290",
+  "location" : "TENNENT",
+  "bbq_type" : "WOOD",
+  "location_description" : "HONEYSUCKLE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.974712",
+    "latitude" : "-35.582844"
+  }
+}
+, {
+  "asset_id" : "BBQ139",
+  "location" : "TENNENT",
+  "bbq_type" : "GAS",
+  "location_description" : "HONEYSUCKLE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.974297",
+    "latitude" : "-35.583023"
+  }
+}
+, {
+  "asset_id" : "BBQ141",
+  "location" : "TENNENT",
+  "bbq_type" : "WOOD",
+  "location_description" : "HONEYSUCKLE CAMPGROUND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.974264",
+    "latitude" : "-35.583036"
+  }
+}
+, {
+  "asset_id" : "BBQ445",
+  "location" : "THARWA",
+  "bbq_type" : "GAS",
+  "location_description" : "THARWA BRIDGE RESERVE",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.069822",
+    "latitude" : "-35.509138"
+  }
+}
+, {
+  "asset_id" : "BBQ13",
+  "location" : "TURNER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "HAIG PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.126529",
+    "latitude" : "-35.268933"
+  }
+}
+, {
+  "asset_id" : "BBQ12",
+  "location" : "TURNER",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "HAIG PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.128442",
+    "latitude" : "-35.269681"
+  }
+}
+, {
+  "asset_id" : "BBQ387",
+  "location" : "WESTON",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "DILLON CLOSE PEDESTRIAN PARKLAND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.054707",
+    "latitude" : "-35.337187"
+  }
+}
+, {
+  "asset_id" : "BBQ426",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "WESTON PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.093399",
+    "latitude" : "-35.293718"
+  }
+}
+, {
+  "asset_id" : "BBQ427",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "WESTON PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.093201",
+    "latitude" : "-35.292516"
+  }
+}
+, {
+  "asset_id" : "BBQ430",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LENNOX GARDENS",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.121803",
+    "latitude" : "-35.29848"
+  }
+}
+, {
+  "asset_id" : "BBQ76",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "GAS",
+  "location_description" : "ALEXANDRINA DRIVE - PEDESTRIAN PARKLAND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.11062",
+    "latitude" : "-35.298719"
+  }
+}
+, {
+  "asset_id" : "BBQ85",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "GAS",
+  "location_description" : "WESTON PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.092152",
+    "latitude" : "-35.290275"
+  }
+}
+, {
+  "asset_id" : "BBQ84",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "WESTON PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.091179",
+    "latitude" : "-35.290846"
+  }
+}
+, {
+  "asset_id" : "BBQ474",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "YARRALUMLA BAY DISTRICT PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.103594",
+    "latitude" : "-35.299422"
+  }
+}
+, {
+  "asset_id" : "BBQ478",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LENNOX GARDENS",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.123005",
+    "latitude" : "-35.297436"
+  }
+}
+, {
+  "asset_id" : "BBQ75",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "GAS",
+  "location_description" : "ALEXANDRINA DRIVE - PEDESTRIAN PARKLAND",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.109266",
+    "latitude" : "-35.297866"
+  }
+}
+, {
+  "asset_id" : "BBQ82",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "WESTON PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.090182",
+    "latitude" : "-35.291387"
+  }
+}
+, {
+  "asset_id" : "BBQ80",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "GAS",
+  "location_description" : "WESTON PARK",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095155",
+    "latitude" : "-35.295686"
+  }
+}
+, {
+  "asset_id" : "BBQ489",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "BLUE RANGE HUT",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.876164",
+    "latitude" : "-35.290285",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "asset_id" : "BBQ239",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "GAS",
+  "location_description" : "BLUE RANGE HUT",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.875925",
+    "latitude" : "-35.289566",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "asset_id" : "BBQ487",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "BLUE RANGE HUT",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.875873",
+    "latitude" : "-35.289515",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "asset_id" : "BBQ488",
+  "location" : "COREE (RURAL)",
+  "bbq_type" : "WOOD",
+  "location_description" : "BLUE RANGE HUT",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.875867",
+    "latitude" : "-35.289643",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "asset_id" : "BBQ428",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LENNOX GARDENS",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.120651",
+    "latitude" : "-35.298678",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+, {
+  "asset_id" : "BBQ429",
+  "location" : "YARRALUMLA",
+  "bbq_type" : "ELECTRIC",
+  "location_description" : "LENNOX GARDENS",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.120279",
+    "latitude" : "-35.298464",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+  }
+}
+ ]

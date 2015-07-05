@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+    <html lang="">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ExploreCBR</title>
+        
+        
+        <!-- Jquery -->
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+        
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBzJt9_OfNCX_kuE3nqa8ZYY8kYFfjoGIE"></script>
+        
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        
+        <!-- Bootswatch paper bootstrap CSS -->
+        <link href="https://bootswatch.com/paper/bootstrap.min.css" type="text/css" rel="stylesheet" />
+        
+        <!-- External stylesheet -->
+        <link href="index.css" type="text/css" rel="stylesheet" />
+        
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" href="img/32/favicon.png" />
+        
+        
+    </head>
+
+    <body>
+    	
+    	<script type="text/javascript">
+		  <!--
+		  if (screen.width <= 800) {
+		    window.location = "http://cgscomputing.com/govhack2/explore_cbr/mobile.html";
+		  }
+		  //-->
+		</script>
+        
+        <script>
+         function help() {
+                $('#myModal').modal("show");
+            }
+            
+            function generateModal(title, body, latitude, longitude) {
+            	document.getElementById("item-modal-title").innerHTML = title;
+            	document.getElementById("item-modal-body").innerHTML = body;
+            	$('#item-modal').modal("show");
+            	document.getElementById("car").onclick = function() {
+            	  getDirections(latitude, longitude, google.maps.TravelMode.DRIVING);  
+            	};
+            	document.getElementById("bike").onclick = function() {
+            	  getDirections(latitude, longitude, google.maps.TravelMode.BICYCLING);  
+            	};
+            	document.getElementById("walk").onclick = function() {
+            	  getDirections(latitude, longitude, google.maps.TravelMode.WALKING);  
+            	};
+            	document.getElementById("bus").onclick = function() {
+            	  getDirections(latitude, longitude, google.maps.TravelMode.TRANSIT);  
+            	};
+            }
+            
+            // Onclick function for suggestion buttons - Alex M
+            function buttonRead(el) {   
+			    alert($(el).attr("id"));
+			}
+			
+			$( "#toggleUI" ).click(function() {
+			  $( "#suggestionspanel" ).toggle();
+			  $( "#filterpanel" ).toggle();
+			});
+			
+			function toggleUI() {
+			  $( "#suggestionspanel" ).toggle();
+			  $( "#filterpanel" ).toggle();
+			}
+            
+        </script>
+        
+        <div id="map-canvas-background">
+        	<div class="spinner">
+			  <div class="rect1"></div>
+			  <div class="rect2"></div>
+			  <div class="rect3"></div>
+			  <div class="rect4"></div>
+			  <div class="rect5"></div>
+			</div>
+		</div>
+		
+        <div id="map-canvas"></div>
+        
+        <nav class="navbar navbar-default">
+          <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#"><img src="img/logo.png" alt="Logo" style="margin-top:-18px" height="60px" /></a>
+              <a class="navbar-brand" href="#">ExploreCBR</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav">
+              	<li><a href="#" id="toggleUI" onclick="toggleUI()">Toggle UI</a></li>
+                <li><a href="about.html">About</a></li>
+                <li class="dropdown">
+
+                </li>
+              </ul>
+              <!--<form class="navbar-form navbar-left" role="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" placeholder="Search">
+                </div>
+                <button type="submit" class="btn btn-default">Submit</button>
+              </form>-->
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="http://www.alconunited.com" target="_blank">Alcon United</a></li>
+
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+        <div class="row" id="filterpanel">
+            <div class="col-md-4">
+                <div class="panel panel-primary" id="controls">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Category Select 
+                        <div class="text-right inlineItem">
+                            <a href="#" data-toggle="modal" data-target="#help-modal" onclick="help();">
+                                <span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span>
+                            </a>
+                        </div>
+                      </h3>
+                  </div>
+                  <div class="panel-body">
+                    <div class="checkbox ">
+                      <label class="checkbox_ctrl_panel">
+                        <input id="barbequeCheckbox" type="checkbox" checked> Barbeques
+                      </label>
+                      <label class="checkbox_ctrl_panel">
+                        <input id="basketballCourtCheckbox" type="checkbox" checked> Sports Facilities
+                      </label>
+                      <label>
+                        <input id="fitnessSiteCheckbox" type="checkbox" checked> Fitness Stations
+                      </label>
+                    </div>
+                    <div class="checkbox ">
+                      <label class="checkbox_ctrl_panel">
+                        <input id="playgroundCheckbox" type="checkbox" checked> Playgrounds
+                      </label>
+                      <label class="checkbox_ctrl_panel">
+                        <input id="skateParkCheckbox" type="checkbox" checked> Skate Parks
+                      </label>
+                      <label>
+                        <input id="toiletCheckbox" type="checkbox" checked> Public Toilets
+                      </label>
+                    </div>
+                    
+                  </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row" id="suggestionspanel">
+            <div class="col-md-4">
+                <div class="panel panel-info" id="suggestions">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">I Feel Like... 
+                        <div class="text-right inlineItem">
+                        </div>
+                      </h3>
+                  </div>
+                  <div class="panel-body">
+                    <button type="button" class="btn btn-default" onclick="suggestion('exercise')">Exercising</button>
+                    <button type="button" class="btn btn-default button-padding" id="sports" onclick="suggestion('sport')">Playing a Sport</button>
+                    <button type="button" class="btn btn-default button-padding" id="friends" onclick="suggestion('friends')">Fun With Friends</button>
+                    <button type="button" class="btn btn-default button-padding" id="outside" onclick="suggestion('anything')">Going Outside</button>
+                  </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="modal fade" id="help-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Category Select</h4>
+              </div>
+              <div class="modal-body">
+                <p>The category select panel allows you to customise what locations are shown on the map via their categories. Selecting one or more categories will result in the selected categories displaying on screen.</p>
+              </div>
+              
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+        
+        <div class="modal fade" id="item-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="item-modal-title">titlehere</h4>
+              </div>
+              <div class="modal-body">
+                <p id="item-modal-body">descriptionhere</p>
+              </div>
+              
+              <!-- <a href="#" class="btn btn-primary" id="getDirections">Get Directions</a> -->
+              <!-- Single button -->
+				<div class="btn-group">
+				  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="getDirections">Get Directions <span class="caret"></span>
+				  </button>
+				  <ul class="dropdown-menu">
+				    <li><a href="#" id="car">Car</a></li>
+				    <li><a href="#" id="bike">Bike</a></li>
+				    <li><a href="#" id="walk">Walk</a></li>
+				    <li><a href="#" id="bus">Bus</a></li>
+				  </ul>
+				</div>
+              
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+        
+        <script src="javascript/main.js"></script>
+    </body>
+</html>

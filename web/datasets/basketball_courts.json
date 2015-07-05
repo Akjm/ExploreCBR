@@ -1,0 +1,469 @@
+[ {
+  "id" : "Bskt2",
+  "division" : "Ainslie",
+  "location" : "Corroboree Park",
+  "longitude" : "149.141855",
+  "latitude" : "-35.268338",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.141855",
+    "latitude" : "-35.268338"
+  },
+  "type" : "Single Court"
+}
+, {
+  "id" : "Bskt29",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.074645",
+  "latitude" : "-35.237826",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.074645",
+    "latitude" : "-35.237826"
+  },
+  "type" : "Double Court"
+}
+, {
+  "id" : "Bskt17",
+  "division" : "Bonython",
+  "location" : "Burgoyne Street Neighbourhood Park",
+  "longitude" : "149.07164",
+  "latitude" : "-35.426712",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.07164",
+    "latitude" : "-35.426712"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt24",
+  "division" : "Chifley",
+  "location" : "Shann Place  Neighbourhood Park",
+  "longitude" : "149.077012",
+  "latitude" : "-35.352159",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.077012",
+    "latitude" : "-35.352159"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt27",
+  "division" : "City",
+  "location" : "City Youth Centre Basket Ball Court",
+  "longitude" : "149.134538",
+  "latitude" : "-35.277923",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.134538",
+    "latitude" : "-35.277923"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt14",
+  "division" : "Deakin",
+  "location" : "Lawley Street - Neighbourhood Park",
+  "longitude" : "149.100659",
+  "latitude" : "-35.319147",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.100659",
+    "latitude" : "-35.319147"
+  },
+  "type" : "Single Court"
+}
+, {
+  "id" : "Bskt4",
+  "division" : "Deakin",
+  "location" : "Hannah Place - Pedestrian Parkland",
+  "longitude" : "149.10579",
+  "latitude" : "-35.314768",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.10579",
+    "latitude" : "-35.314768"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt33",
+  "division" : "Duffy",
+  "location" : "Cargelligo Street Pedestrian Parkland",
+  "longitude" : "149.030598",
+  "latitude" : "-35.334126",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.030598",
+    "latitude" : "-35.334126"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt21",
+  "division" : "Dunlop",
+  "location" : "Percy Pegg Circuit Neighbourhood Park",
+  "longitude" : "149.017748",
+  "latitude" : "-35.188399",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.017748",
+    "latitude" : "-35.188399"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt12",
+  "division" : "Evatt",
+  "location" : "Kingston Street Pedestrian Parkland",
+  "longitude" : "149.077357",
+  "latitude" : "-35.209532",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.077357",
+    "latitude" : "-35.209532"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt11",
+  "division" : "Flynn",
+  "location" : "Blackwell Circuit Neighbourhood Park",
+  "longitude" : "149.038999",
+  "latitude" : "-35.206624",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.038999",
+    "latitude" : "-35.206624"
+  },
+  "type" : "Single Court"
+}
+, {
+  "id" : "Bskt22",
+  "division" : "Forde",
+  "location" : "Amy Ackman Street Neighbourhood Park",
+  "longitude" : "149.143869",
+  "latitude" : "-35.16785",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.143869",
+    "latitude" : "-35.16785"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt31",
+  "division" : "Forde",
+  "location" : "Mulligans Flat Road Pedestrian Parkland",
+  "longitude" : "149.150881",
+  "latitude" : "-35.157396",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.150881",
+    "latitude" : "-35.157396"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt6",
+  "division" : "Gordon",
+  "location" : "Point Hut District Park",
+  "longitude" : "149.084235",
+  "latitude" : "-35.456377",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.084235",
+    "latitude" : "-35.456377"
+  },
+  "type" : "Single Court"
+}
+, {
+  "id" : "Bskt5",
+  "division" : "Greenway",
+  "location" : "Lake Tuggeranong District Park",
+  "longitude" : "149.071724",
+  "latitude" : "-35.402904",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071724",
+    "latitude" : "-35.402904"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt18",
+  "division" : "Gungahlin",
+  "location" : "Yerrabi District Park",
+  "longitude" : "149.129916",
+  "latitude" : "-35.179882",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.129916",
+    "latitude" : "-35.179882"
+  },
+  "type" : "Single Court"
+}
+, {
+  "id" : "Bskt13",
+  "division" : "Hackett",
+  "location" : "Brennan Street  Neighbourhood Park",
+  "longitude" : "149.165685",
+  "latitude" : "-35.253398",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.165685",
+    "latitude" : "-35.253398"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt3",
+  "division" : "Harrison",
+  "location" : "Helby Street Neighbourhood Park",
+  "longitude" : "149.160242",
+  "latitude" : "-35.20798",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.160242",
+    "latitude" : "-35.20798"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt23",
+  "division" : "Kambah",
+  "location" : "Boddington Crescent Neighbourhood Park",
+  "longitude" : "149.052571",
+  "latitude" : "-35.383505",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.052571",
+    "latitude" : "-35.383505"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt9",
+  "division" : "Kambah",
+  "location" : "Attiwell Circuit - Neighbourhood Park",
+  "longitude" : "149.053236",
+  "latitude" : "-35.377732",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.053236",
+    "latitude" : "-35.377732"
+  },
+  "type" : "4 Way Hoop"
+}
+, {
+  "id" : "Bskt8",
+  "division" : "Kambah",
+  "location" : "Rundle Place - Neighbourhood Park",
+  "longitude" : "149.062246",
+  "latitude" : "-35.372251",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.062246",
+    "latitude" : "-35.372251"
+  },
+  "type" : "4 Way Hoop"
+}
+, {
+  "id" : "Bskt7",
+  "division" : "Kambah",
+  "location" : "Boddington Crescent - Neighbourhood Park",
+  "longitude" : "149.051935",
+  "latitude" : "-35.389103",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.051935",
+    "latitude" : "-35.389103"
+  },
+  "type" : "4 Way Hoop"
+}
+, {
+  "id" : "Bskt15",
+  "division" : "Kingston",
+  "location" : "Sandalwood Street - Neighbourhood Park",
+  "longitude" : "149.152879",
+  "latitude" : "-35.31666",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.152879",
+    "latitude" : "-35.31666"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt20",
+  "division" : "Lyneham",
+  "location" : "Lambert Place - Road Verge",
+  "longitude" : "149.120967",
+  "latitude" : "-35.247334",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.120967",
+    "latitude" : "-35.247334"
+  },
+  "type" : "Double Court"
+}
+, {
+  "id" : "Bskt10",
+  "division" : "Lyons",
+  "location" : "Devonport Street - Neighbourhood Park",
+  "longitude" : "149.073916",
+  "latitude" : "-35.336639",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073916",
+    "latitude" : "-35.336639"
+  },
+  "type" : "4 Way Hoop"
+}
+, {
+  "id" : "Bskt25",
+  "division" : "Macarthur",
+  "location" : "Hawkesworth Place - Neighbourhood Park",
+  "longitude" : "149.129002",
+  "latitude" : "-35.408123",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.129002",
+    "latitude" : "-35.408123"
+  },
+  "type" : "Single Court"
+}
+, {
+  "id" : "Bskt16",
+  "division" : "Macgregor",
+  "location" : "Clyde Finlay Street Neighbourhood Park",
+  "longitude" : "149.001871",
+  "latitude" : "-35.20853",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.001871",
+    "latitude" : "-35.20853"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt30",
+  "division" : "Narrabundah",
+  "location" : "Kootara Crescent",
+  "longitude" : "149.151911",
+  "latitude" : "-35.330285",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.151911",
+    "latitude" : "-35.330285"
+  },
+  "type" : "Single Court"
+}
+, {
+  "id" : "Bskt32",
+  "division" : "O'connor",
+  "location" : "Cockle Street  Pedestrian Parkland",
+  "longitude" : "149.113599",
+  "latitude" : "-35.264871",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.113599",
+    "latitude" : "-35.264871"
+  },
+  "type" : "Single Court"
+}
+, {
+  "id" : "Bskt26",
+  "division" : "Oaks Estate",
+  "location" : "River Street Neighbourhood Park",
+  "longitude" : "149.227383",
+  "latitude" : "-35.341884",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.227383",
+    "latitude" : "-35.341884"
+  },
+  "type" : "4 Way Hoop"
+}
+, {
+  "id" : "Bskt28",
+  "division" : "Paddys River",
+  "location" : "Coree - Cotter Road",
+  "longitude" : "148.941168",
+  "latitude" : "-35.323883",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.941168",
+    "latitude" : "-35.323883"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt19",
+  "division" : "Phillip",
+  "location" : "Edison District Park",
+  "longitude" : "149.091642",
+  "latitude" : "-35.339862",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.091642",
+    "latitude" : "-35.339862"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt36",
+  "division" : "Wanniassa",
+  "location" : "Lansell Circuit Pedestrian Parkland",
+  "longitude" : "149.103042",
+  "latitude" : "-35.404784",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.103042",
+    "latitude" : "-35.404784"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt34",
+  "division" : "Waramanga",
+  "location" : "Malara Street Neighbourhood Park",
+  "longitude" : "149.061227",
+  "latitude" : "-35.350207",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.061227",
+    "latitude" : "-35.350207"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt35",
+  "division" : "Waramanga",
+  "location" : "Nemarang Crescent Neighbourhood Park",
+  "longitude" : "149.063593",
+  "latitude" : "-35.357267",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.063593",
+    "latitude" : "-35.357267"
+  },
+  "type" : "Half Court"
+}
+, {
+  "id" : "Bskt1",
+  "division" : "Weston",
+  "location" : "Dillon Close - Pedestrian Parkland",
+  "longitude" : "149.053683",
+  "latitude" : "-35.337649",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.053683",
+    "latitude" : "-35.337649"
+  },
+  "type" : "Half Court"
+}
+ ]

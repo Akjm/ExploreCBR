@@ -1,0 +1,1057 @@
+[ {
+  "asset_id" : "TOLT45",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.124928",
+  "latitude" : "-35.286775",
+  "location_description" : "ACTON PARK DISTRICT PARK - ACTON FERRY TERMINAL",
+  "division_name" : "ACTON"
+}
+, {
+  "asset_id" : "TOLT21",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.100125",
+  "latitude" : "-35.292289",
+  "location_description" : "BLACK MOUNTAIN PENINSULA DISTRICT PARK",
+  "division_name" : "ACTON"
+}
+, {
+  "asset_id" : "TOLT20",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.10124",
+  "latitude" : "-35.287294",
+  "location_description" : "BLACK MOUNTAIN PENINSULA DISTRICT PARK",
+  "division_name" : "ACTON"
+}
+, {
+  "asset_id" : "TOLT138",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.145495",
+  "latitude" : "-35.262584",
+  "location_description" : "AINSLIE SHOPS",
+  "division_name" : "AINSLIE"
+}
+, {
+  "asset_id" : "TOLT51",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.137502",
+  "latitude" : "-35.314394",
+  "location_description" : "TELOPEA PARK",
+  "division_name" : "BARTON"
+}
+, {
+  "asset_id" : "TOLT63",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.139578",
+  "latitude" : "-35.308024",
+  "location_description" : "BOWEN PARK",
+  "division_name" : "BARTON"
+}
+, {
+  "asset_id" : "TOLT4",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.070427",
+  "latitude" : "-35.225351",
+  "location_description" : "GINNINDERRA PENINSULA DISTRICT PARK",
+  "division_name" : "BELCONNEN"
+}
+, {
+  "asset_id" : "TOLT5",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.074708",
+  "latitude" : "-35.235937",
+  "location_description" : "JOHN KNIGHT MEMORIAL PARK",
+  "division_name" : "BELCONNEN"
+}
+, {
+  "asset_id" : "TOLT2",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.074316",
+  "latitude" : "-35.228706",
+  "location_description" : "DIDDAMS CLOSE PEDESTRIAN PARKLAND",
+  "division_name" : "BELCONNEN"
+}
+, {
+  "asset_id" : "TOLT3",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.063118",
+  "latitude" : "-35.22778",
+  "location_description" : "JOYNTON SMITH DRIVE PEDESTRIAN PARKLAND",
+  "division_name" : "BELCONNEN"
+}
+, {
+  "asset_id" : "TOLT1",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.071891",
+  "latitude" : "-35.239022",
+  "location_description" : "EMU BANK PEDESTRIAN PARKLAND",
+  "division_name" : "BELCONNEN"
+}
+, {
+  "asset_id" : "TOLT146",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.142194",
+  "latitude" : "-35.159328",
+  "location_description" : "BURNUM BURNUM CLOSE NEIGHBORHOOD OVAL",
+  "division_name" : "BONNER"
+}
+, {
+  "asset_id" : "TOLT87",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "149.019659",
+  "latitude" : "-35.715221",
+  "location_description" : "BRANDY FLAT",
+  "division_name" : "BOOTH"
+}
+, {
+  "asset_id" : "TOLT86",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.99895",
+  "latitude" : "-35.682676",
+  "location_description" : "GLENDALE PICNIC AREA",
+  "division_name" : "BOOTH"
+}
+, {
+  "asset_id" : "TOLT18",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.131798",
+  "latitude" : "-35.270109",
+  "location_description" : "HAIG PARK",
+  "division_name" : "BRADDON"
+}
+, {
+  "asset_id" : "TOLT157",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.154613",
+  "latitude" : "-35.289342",
+  "location_description" : "CAMPBELL SHOPPING CENTRE",
+  "division_name" : "CAMPBELL"
+}
+, {
+  "asset_id" : "TOLT154",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.167489",
+  "latitude" : "-35.30402",
+  "location_description" : "MOLONGLO REACH DISTRICT PARK",
+  "division_name" : "CAMPBELL"
+}
+, {
+  "asset_id" : "TOLT6",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.033642",
+  "latitude" : "-35.205232",
+  "location_description" : "CHARNWOOD SHOPPING CENTRE",
+  "division_name" : "CHARNWOOD"
+}
+, {
+  "asset_id" : "TOLT22",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.07643",
+  "latitude" : "-35.352375",
+  "location_description" : "SHANN PLACE - NEIGHBOURHOOD PARK",
+  "division_name" : "CHIFLEY"
+}
+, {
+  "asset_id" : "TOLT43",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.128291",
+  "latitude" : "-35.413384",
+  "location_description" : "CHISHOLM SHOPPING CENTRE",
+  "division_name" : "CHISHOLM"
+}
+, {
+  "asset_id" : "TOLT142",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.1306",
+  "latitude" : "-35.277669",
+  "location_description" : "MORT STREET ROAD VERGE",
+  "division_name" : "CITY"
+}
+, {
+  "asset_id" : "TOLT141",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.130372",
+  "latitude" : "-35.278422",
+  "location_description" : "ALINGA STREET ROAD VERGE",
+  "division_name" : "CITY"
+}
+, {
+  "asset_id" : "TOLT13",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.136397",
+  "latitude" : "-35.282411",
+  "location_description" : "GLEBE PARK",
+  "division_name" : "CITY"
+}
+, {
+  "asset_id" : "TOLT159",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.075994",
+  "latitude" : "-35.286912",
+  "location_description" : "FORREST DRIVE",
+  "division_name" : "CITY"
+}
+, {
+  "asset_id" : "TOLT158",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.063097",
+  "latitude" : "-35.259468",
+  "location_description" : "COOK SHOPPING CENTRE",
+  "division_name" : "COOK"
+}
+, {
+  "asset_id" : "TOLT96",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.938159",
+  "latitude" : "-35.327899",
+  "location_description" : "COTTER RESERVE",
+  "division_name" : "COREE (RURAL)"
+}
+, {
+  "asset_id" : "TOLT95",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.941974",
+  "latitude" : "-35.322352",
+  "location_description" : "COTTER RESERVE",
+  "division_name" : "COREE (RURAL)"
+}
+, {
+  "asset_id" : "TOLT113",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCKS WITH SHOWER FACILITIES",
+  "longitude" : "148.947535",
+  "latitude" : "-35.32575",
+  "location_description" : "COTTER CAMPGROUND",
+  "division_name" : "COREE (RURAL)"
+}
+, {
+  "asset_id" : "TOLT102",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.951159",
+  "latitude" : "-35.245218",
+  "location_description" : "URIARRA WEST",
+  "division_name" : "COREE (RURAL)"
+}
+, {
+  "asset_id" : "TOLT100",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.951147",
+  "latitude" : "-35.242502",
+  "location_description" : "SWAMP CREEK",
+  "division_name" : "COREE (RURAL)"
+}
+, {
+  "asset_id" : "TOLT97",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.943792",
+  "latitude" : "-35.326173",
+  "location_description" : "COTTER RESERVE",
+  "division_name" : "COREE (RURAL)"
+}
+, {
+  "asset_id" : "TOLT120",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "148.87549",
+  "latitude" : "-35.289638",
+  "location_description" : "BLUE RANGE - URIARRA PINES",
+  "division_name" : "COREE (RURAL)"
+}
+, {
+  "asset_id" : "TOLT88",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.804354",
+  "latitude" : "-35.386919",
+  "location_description" : "BULLS HEAD PICNIC AREA",
+  "division_name" : "COTTER RIVER"
+}
+, {
+  "asset_id" : "TOLT89",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.827986",
+  "latitude" : "-35.44254",
+  "location_description" : "BENDORA DAM",
+  "division_name" : "COTTER RIVER"
+}
+, {
+  "asset_id" : "TOLT131",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.834871",
+  "latitude" : "-35.534118",
+  "location_description" : "CORIN DAM",
+  "division_name" : "COTTER RIVER"
+}
+, {
+  "asset_id" : "TOLT133",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "148.765222",
+  "latitude" : "-35.490899",
+  "location_description" : "MT FRANKLIN",
+  "division_name" : "COTTER RIVER"
+}
+, {
+  "asset_id" : "TOLT143",
+  "toilet_type_text" : "PUBLIC TOILET LOCATED WITHIN BUILDING",
+  "longitude" : "149.102683",
+  "latitude" : "-35.201499",
+  "location_description" : "NARDEN STREET COMMUNITY PARK",
+  "division_name" : "CRACE"
+}
+, {
+  "asset_id" : "TOLT23",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.082212",
+  "latitude" : "-35.325127",
+  "location_description" : "CURTIN SHOPPING CENTRE",
+  "division_name" : "CURTIN"
+}
+, {
+  "asset_id" : "TOLT64",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.107678",
+  "latitude" : "-35.314703",
+  "location_description" : "DEAKIN SHOPPING CENTRE",
+  "division_name" : "DEAKIN"
+}
+, {
+  "asset_id" : "TOLT75",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.112969",
+  "latitude" : "-35.318049",
+  "location_description" : "BEDFORD STREET - NEIGHBOURHOOD PARK",
+  "division_name" : "DEAKIN"
+}
+, {
+  "asset_id" : "TOLT140",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.149243",
+  "latitude" : "-35.252467",
+  "location_description" : "DUTTON STREET NEIGHBOURHOOD PARK",
+  "division_name" : "DICKSON"
+}
+, {
+  "asset_id" : "TOLT12",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.140455",
+  "latitude" : "-35.250445",
+  "location_description" : "DICKSON SHOPPING CENTRE",
+  "division_name" : "DICKSON"
+}
+, {
+  "asset_id" : "TOLT11",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.145148",
+  "latitude" : "-35.24537",
+  "location_description" : "MELBA STREET - PEDESTRIAN PARKLAND",
+  "division_name" : "DOWNER"
+}
+, {
+  "asset_id" : "TOLT42",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.120754",
+  "latitude" : "-35.411678",
+  "location_description" : "FADDEN PINES DISTRICT PARK",
+  "division_name" : "FADDEN"
+}
+, {
+  "asset_id" : "TOLT139",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.141825",
+  "latitude" : "-35.172385",
+  "location_description" : "RAY ELLIS CRESCENT DISTRICT PARK",
+  "division_name" : "FORDE"
+}
+, {
+  "asset_id" : "TOLT156",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.177305",
+  "latitude" : "-35.327459",
+  "location_description" : "MARYBOROUGH STREET PEDESTRIAN PARKLAND",
+  "division_name" : "FYSHWICK"
+}
+, {
+  "asset_id" : "TOLT76",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.173956",
+  "latitude" : "-35.304152",
+  "location_description" : "MOLONGLO REACH WATER SKI",
+  "division_name" : "FYSHWICK"
+}
+, {
+  "asset_id" : "TOLT109",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.261938",
+  "latitude" : "-35.409806",
+  "location_description" : "GOOGONG FORESHORE",
+  "division_name" : "GOOGONG"
+}
+, {
+  "asset_id" : "TOLT114",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "149.259122",
+  "latitude" : "-35.4973",
+  "location_description" : "GOOGONG FORESHORE",
+  "division_name" : "GOOGONG"
+}
+, {
+  "asset_id" : "TOLT112",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCKS WITH SHOWER FACILITIES",
+  "longitude" : "149.257524",
+  "latitude" : "-35.511528",
+  "location_description" : "GOOGONG FORESHORE",
+  "division_name" : "GOOGONG"
+}
+, {
+  "asset_id" : "TOLT111",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.257459",
+  "latitude" : "-35.430707",
+  "location_description" : "GOOGONG FORESHORE",
+  "division_name" : "GOOGONG"
+}
+, {
+  "asset_id" : "TOLT110",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.261723",
+  "latitude" : "-35.422499",
+  "location_description" : "GOOGONG FORESHORE",
+  "division_name" : "GOOGONG"
+}
+, {
+  "asset_id" : "TOLT71",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.084847",
+  "latitude" : "-35.455509",
+  "location_description" : "POINT HUT DISTRICT PARK",
+  "division_name" : "GORDON"
+}
+, {
+  "asset_id" : "TOLT68",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.072142",
+  "latitude" : "-35.405828",
+  "location_description" : "LAKE TUGGERANONG DISTRICT PARK",
+  "division_name" : "GREENWAY"
+}
+, {
+  "asset_id" : "TOLT41",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.064596",
+  "latitude" : "-35.411222",
+  "location_description" : "TUGGERANONG TOWN PARK",
+  "division_name" : "GREENWAY"
+}
+, {
+  "asset_id" : "TOLT48",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.142196",
+  "latitude" : "-35.328262",
+  "location_description" : "GRIFFITH SHOPPING CENTRE",
+  "division_name" : "GRIFFITH"
+}
+, {
+  "asset_id" : "TOLT29",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.130757",
+  "latitude" : "-35.179244",
+  "location_description" : "YERRABI DISTRICT PARK",
+  "division_name" : "GUNGAHLIN"
+}
+, {
+  "asset_id" : "TOLT155",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.131958",
+  "latitude" : "-35.186",
+  "location_description" : "GOZZARD STREET TOWN PARK",
+  "division_name" : "GUNGAHLIN"
+}
+, {
+  "asset_id" : "TOLT69",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.130693",
+  "latitude" : "-35.179263",
+  "location_description" : "YERRABI DISTRICT PARK",
+  "division_name" : "GUNGAHLIN"
+}
+, {
+  "asset_id" : "TOLT161",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "149.146341",
+  "latitude" : "-35.137135",
+  "location_description" : "CANBERRA CENTENARY TRAIL",
+  "division_name" : "GUNGAHLIN (RURAL)"
+}
+, {
+  "asset_id" : "TOLT145",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.157917",
+  "latitude" : "-35.166838",
+  "location_description" : "BEHIND WOOLSHED (MULLIGANS FLAT NR)",
+  "division_name" : "GUNGAHLIN (RURAL)"
+}
+, {
+  "asset_id" : "TOLT31",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.069323",
+  "latitude" : "-35.171989",
+  "location_description" : "HALL PARK",
+  "division_name" : "HALL"
+}
+, {
+  "asset_id" : "TOLT7",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.043296",
+  "latitude" : "-35.243714",
+  "location_description" : "HAWKER SHOPPING CENTRE",
+  "division_name" : "HAWKER"
+}
+, {
+  "asset_id" : "TOLT8",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.020432",
+  "latitude" : "-35.222133",
+  "location_description" : "KIPPAX FAIR",
+  "division_name" : "HOLT"
+}
+, {
+  "asset_id" : "TOLT24",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.093583",
+  "latitude" : "-35.333143",
+  "location_description" : "WISDOM STREET - PEDESTRIAN PARKLAND",
+  "division_name" : "HUGHES"
+}
+, {
+  "asset_id" : "TOLT38",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.06038",
+  "latitude" : "-35.388592",
+  "location_description" : "KAMBAH DISTRICT PARK",
+  "division_name" : "KAMBAH"
+}
+, {
+  "asset_id" : "TOLT39",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.058396",
+  "latitude" : "-35.380177",
+  "location_description" : "KAMBAH VILLAGE",
+  "division_name" : "KAMBAH"
+}
+, {
+  "asset_id" : "TOLT40",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.061799",
+  "latitude" : "-35.391824",
+  "location_description" : "KAMBAH DISTRICT PARK",
+  "division_name" : "KAMBAH"
+}
+, {
+  "asset_id" : "TOLT65",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.142347",
+  "latitude" : "-35.316418",
+  "location_description" : "KINGSTON SHOPPING CENTRE",
+  "division_name" : "KINGSTON"
+}
+, {
+  "asset_id" : "TOLT126",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.250067",
+  "latitude" : "-35.328742",
+  "location_description" : "MOLONGLO GORGE",
+  "division_name" : "KOWEN"
+}
+, {
+  "asset_id" : "TOLT127",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.246903",
+  "latitude" : "-35.322519",
+  "location_description" : "MOLONGLO GORGE",
+  "division_name" : "KOWEN"
+}
+, {
+  "asset_id" : "TOLT128",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.351226",
+  "latitude" : "-35.328354",
+  "location_description" : "KOWEN PINES",
+  "division_name" : "KOWEN"
+}
+, {
+  "asset_id" : "TOLT130",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.28729",
+  "latitude" : "-35.289285",
+  "location_description" : "KOWEN PINES",
+  "division_name" : "KOWEN"
+}
+, {
+  "asset_id" : "TOLT10",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.125232",
+  "latitude" : "-35.252081",
+  "location_description" : "LYNEHAM SHOPS",
+  "division_name" : "LYNEHAM"
+}
+, {
+  "asset_id" : "TOLT70",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.19085",
+  "latitude" : "-35.211253",
+  "location_description" : "MAJURA ROAD - PEDESTRIAN PARKLAND",
+  "division_name" : "MAJURA (RURAL)"
+}
+, {
+  "asset_id" : "TOLT25",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.094377",
+  "latitude" : "-35.365804",
+  "location_description" : "MAWSON SHOPPING CENTRE",
+  "division_name" : "MAWSON"
+}
+, {
+  "asset_id" : "TOLT30",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.142251",
+  "latitude" : "-35.218239",
+  "location_description" : "BAILLIEU LANE PEDESTRIAN PARKLAND",
+  "division_name" : "MITCHELL"
+}
+, {
+  "asset_id" : "TOLT150",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "148.985278",
+  "latitude" : "-35.875748",
+  "location_description" : "NAMADGI NATIONAL PARK",
+  "division_name" : "MOUNT CLEAR"
+}
+, {
+  "asset_id" : "TOLT132",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "148.971014",
+  "latitude" : "-35.887009",
+  "location_description" : "NAMADGI NATIONAL PARK",
+  "division_name" : "MOUNT CLEAR"
+}
+, {
+  "asset_id" : "TOLT119",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "149.015202",
+  "latitude" : "-35.868016",
+  "location_description" : "NAMADGI NATIONAL PARK",
+  "division_name" : "MOUNT CLEAR"
+}
+, {
+  "asset_id" : "TOLT91",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "149.010386",
+  "latitude" : "-35.864931",
+  "location_description" : "NAMADGI NATIONAL PARK",
+  "division_name" : "MOUNT CLEAR"
+}
+, {
+  "asset_id" : "TOLT92",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "149.06594",
+  "latitude" : "-35.823879",
+  "location_description" : "NAMADGI NATIONAL PARK",
+  "division_name" : "MOUNT CLEAR"
+}
+, {
+  "asset_id" : "TOLT36",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.154018",
+  "latitude" : "-35.33301",
+  "location_description" : "NARRABUNDAH SHOPPING CENTRE",
+  "division_name" : "NARRABUNDAH"
+}
+, {
+  "asset_id" : "TOLT9",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.122566",
+  "latitude" : "-35.26432",
+  "location_description" : "O\"CONNOR SHOPPING CENTRE",
+  "division_name" : "O\"CONNOR"
+}
+, {
+  "asset_id" : "TOLT81",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.926569",
+  "latitude" : "-35.442122",
+  "location_description" : "TIDBINBILLA NATURE RESERVE (GREENS)",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT82",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.906841",
+  "latitude" : "-35.461472",
+  "location_description" : "WETLANDS CARPARK",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT122",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.940327",
+  "latitude" : "-35.4807",
+  "location_description" : "GIBRALTAR PINES",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT123",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.938844",
+  "latitude" : "-35.481348",
+  "location_description" : "GIBRALTAR PINES",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT124",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.93398",
+  "latitude" : "-35.487883",
+  "location_description" : "GIBRALTAR PINES",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT125",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.952185",
+  "latitude" : "-35.363577",
+  "location_description" : "MURRAYS CORNER - PIERCES CK",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT134",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.904967",
+  "latitude" : "-35.466307",
+  "location_description" : "SANCTUARY",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT135",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.919542",
+  "latitude" : "-35.459812",
+  "location_description" : "FLINTS PICNIC AREA",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT136",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.959732",
+  "latitude" : "-35.452316",
+  "location_description" : "BIRRIGAI",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT137",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.929499",
+  "latitude" : "-35.444048",
+  "location_description" : "SHEEDYS CK PICNIC AREA",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT147",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "148.92199",
+  "latitude" : "-35.424031",
+  "location_description" : "NEAR NIL DESPERANDUM COTTAGE",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT148",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "148.925342",
+  "latitude" : "-35.455462",
+  "location_description" : "TIDBINBILLA NATURE RESERVE",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT149",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.927874",
+  "latitude" : "-35.4486",
+  "location_description" : "TIDBINBILLA NATURE RESERVE",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT151",
+  "toilet_type_text" : "PUBLIC TOILET LOCATED WITHIN BUILDING",
+  "longitude" : "148.906838",
+  "latitude" : "-35.462675",
+  "location_description" : "VET CENTRE BUILDING, TIDBINBILLA NATURE RESERVE",
+  "division_name" : "PADDYS RIVER"
+}
+, {
+  "asset_id" : "TOLT26",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.087611",
+  "latitude" : "-35.352412",
+  "location_description" : "PHILLIP TOWN CENTRE",
+  "division_name" : "PHILLIP"
+}
+, {
+  "asset_id" : "TOLT27",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.091274",
+  "latitude" : "-35.340323",
+  "location_description" : "EDISON DISTRICT PARK",
+  "division_name" : "PHILLIP"
+}
+, {
+  "asset_id" : "TOLT28",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.086107",
+  "latitude" : "-35.344618",
+  "location_description" : "PHILLIP TOWN CENTRE",
+  "division_name" : "PHILLIP"
+}
+, {
+  "asset_id" : "TOLT37",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.092971",
+  "latitude" : "-35.34299",
+  "location_description" : "JUSTINIAN STREET - ROAD VERGE",
+  "division_name" : "PHILLIP"
+}
+, {
+  "asset_id" : "TOLT54",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.116771",
+  "latitude" : "-35.32882",
+  "location_description" : "RED HILL SCENIC LOOKOUT",
+  "division_name" : "RED HILL"
+}
+, {
+  "asset_id" : "TOLT60",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.145947",
+  "latitude" : "-35.282531",
+  "location_description" : "LIMESTONE AVENUE - PEDESTRIAN PARKLAND",
+  "division_name" : "REID"
+}
+, {
+  "asset_id" : "TOLT83",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.98893",
+  "latitude" : "-35.662442",
+  "location_description" : "ORRORAL VALLEY",
+  "division_name" : "RENDEZVOUS CREEK"
+}
+, {
+  "asset_id" : "TOLT118",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "148.973744",
+  "latitude" : "-35.757246",
+  "location_description" : "YANKEE HAT CARPARK",
+  "division_name" : "RENDEZVOUS CREEK"
+}
+, {
+  "asset_id" : "TOLT90",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "148.958641",
+  "latitude" : "-35.775308",
+  "location_description" : "OFF OLD BOBOYAN ROAD",
+  "division_name" : "RENDEZVOUS CREEK"
+}
+, {
+  "asset_id" : "TOLT85",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.955168",
+  "latitude" : "-35.62915",
+  "location_description" : "ORRORAL VALLEY",
+  "division_name" : "RENDEZVOUS CREEK"
+}
+, {
+  "asset_id" : "TOLT84",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.988693",
+  "latitude" : "-35.66571",
+  "location_description" : "ORRORAL VALLEY",
+  "division_name" : "RENDEZVOUS CREEK"
+}
+, {
+  "asset_id" : "TOLT152",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.039922",
+  "latitude" : "-35.233656",
+  "location_description" : "SCULLIN SHOPPING CENTRE",
+  "division_name" : "SCULLIN"
+}
+, {
+  "asset_id" : "TOLT160",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.953154",
+  "latitude" : "-35.248475",
+  "location_description" : "URIARRA EAST RECREATION RESERVE",
+  "division_name" : "STROMLO"
+}
+, {
+  "asset_id" : "TOLT80",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "148.959765",
+  "latitude" : "-35.319294",
+  "location_description" : "CASAURINA SANDS NORTH",
+  "division_name" : "STROMLO (RURAL)"
+}
+, {
+  "asset_id" : "TOLT79",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.9537",
+  "latitude" : "-35.319852",
+  "location_description" : "CASUARINA SANDS PICNIC AREA",
+  "division_name" : "STROMLO (RURAL)"
+}
+, {
+  "asset_id" : "TOLT116",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "148.974687",
+  "latitude" : "-35.58311",
+  "location_description" : "HONEYSUCKLE CAMPGROUND",
+  "division_name" : "TENNENT"
+}
+, {
+  "asset_id" : "TOLT117",
+  "toilet_type_text" : "PIT TOILET",
+  "longitude" : "148.993357",
+  "latitude" : "-35.567425",
+  "location_description" : "BOOROOMBAH ROCKS CAMPGROUND",
+  "division_name" : "TENNENT"
+}
+, {
+  "asset_id" : "TOLT103",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.069445",
+  "latitude" : "-35.509224",
+  "location_description" : "THARWA",
+  "division_name" : "THARWA"
+}
+, {
+  "asset_id" : "TOLT104",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.066798",
+  "latitude" : "-35.509358",
+  "location_description" : "THARWA",
+  "division_name" : "THARWA"
+}
+, {
+  "asset_id" : "TOLT115",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.109603",
+  "latitude" : "-35.583573",
+  "location_description" : "ANGEL CROSSING",
+  "division_name" : "TUGGERANONG (RURAL)"
+}
+, {
+  "asset_id" : "TOLT98",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.011048",
+  "latitude" : "-35.397829",
+  "location_description" : "KAMBAH POOL SOUTH CARPARK",
+  "division_name" : "TUGGERANONG (RURAL)"
+}
+, {
+  "asset_id" : "TOLT108",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.065664",
+  "latitude" : "-35.431855",
+  "location_description" : "PINE ISLAND SOUTH",
+  "division_name" : "TUGGERANONG (RURAL)"
+}
+, {
+  "asset_id" : "TOLT105",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.075546",
+  "latitude" : "-35.45239",
+  "location_description" : "POINT HUT",
+  "division_name" : "TUGGERANONG (RURAL)"
+}
+, {
+  "asset_id" : "TOLT106",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.054726",
+  "latitude" : "-35.425631",
+  "location_description" : "PINE ISLAND NORTH",
+  "division_name" : "TUGGERANONG (RURAL)"
+}
+, {
+  "asset_id" : "TOLT107",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.062259",
+  "latitude" : "-35.428028",
+  "location_description" : "PINE ISLAND CENTRAL",
+  "division_name" : "TUGGERANONG (RURAL)"
+}
+, {
+  "asset_id" : "TOLT99",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.009275",
+  "latitude" : "-35.394361",
+  "location_description" : "KAMBAH POOL NUDE BEACH",
+  "division_name" : "TUGGERANONG (RURAL)"
+}
+, {
+  "asset_id" : "TOLT55",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.089446",
+  "latitude" : "-35.29694",
+  "location_description" : "WESTON PARK",
+  "division_name" : "YARRALUMLA"
+}
+, {
+  "asset_id" : "TOLT56",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.102962",
+  "latitude" : "-35.299276",
+  "location_description" : "YARRALUMLA BAY DISTRICT PARK",
+  "division_name" : "YARRALUMLA"
+}
+, {
+  "asset_id" : "TOLT57",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.091561",
+  "latitude" : "-35.292601",
+  "location_description" : "WESTON PARK",
+  "division_name" : "YARRALUMLA"
+}
+, {
+  "asset_id" : "TOLT58",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.089768",
+  "latitude" : "-35.291946",
+  "location_description" : "WESTON PARK",
+  "division_name" : "YARRALUMLA"
+}
+, {
+  "asset_id" : "TOLT62",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.122904",
+  "latitude" : "-35.297489",
+  "location_description" : "LENNOX GARDENS",
+  "division_name" : "YARRALUMLA"
+}
+, {
+  "asset_id" : "TOLT53",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.117079",
+  "latitude" : "-35.300313",
+  "location_description" : "ALEXANDRINA DRIVE - PEDESTRIAN PARKLAND",
+  "division_name" : "YARRALUMLA"
+}
+, {
+  "asset_id" : "TOLT52",
+  "toilet_type_text" : "MANUAL STYLE ABLUTION BLOCK",
+  "longitude" : "149.097161",
+  "latitude" : "-35.307226",
+  "location_description" : "YARRALUMLA SHOPPING CENTRE",
+  "division_name" : "YARRALUMLA"
+}
+, {
+  "asset_id" : "TOLT61",
+  "toilet_type_text" : "AUTOMATED SYSTEM EG EXCELOO BRAND TOILET",
+  "longitude" : "149.093934",
+  "latitude" : "-35.293513",
+  "location_description" : "WESTON PARK",
+  "division_name" : "YARRALUMLA"
+}
+ ]

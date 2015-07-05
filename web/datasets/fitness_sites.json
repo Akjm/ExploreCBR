@@ -1,0 +1,1405 @@
+[ {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.054415",
+    "latitude" : "-35.337115"
+  },
+  "id" : "402",
+  "division" : "Weston",
+  "location" : "Dillon Close Neighbourhood Park",
+  "longitude" : "149.054415",
+  "latitude" : "-35.337115",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.054371",
+    "latitude" : "-35.337191"
+  },
+  "id" : "404",
+  "division" : "Weston",
+  "location" : "Dillon Close Neighbourhood Park",
+  "longitude" : "149.054371",
+  "latitude" : "-35.337191",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.054304",
+    "latitude" : "-35.33725"
+  },
+  "id" : "406",
+  "division" : "Weston",
+  "location" : "Dillon Close Neighbourhood Park",
+  "longitude" : "149.054304",
+  "latitude" : "-35.33725",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.094132",
+    "latitude" : "-35.171404"
+  },
+  "id" : "602",
+  "division" : "Casey",
+  "location" : "John Crawford Crescent Neighbourhood Park",
+  "longitude" : "149.094132",
+  "latitude" : "-35.171404",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.093854",
+    "latitude" : "-35.171364"
+  },
+  "id" : "604",
+  "division" : "Casey",
+  "location" : "John Crawford Crescent Neighbourhood Park",
+  "longitude" : "149.093854",
+  "latitude" : "-35.171364",
+  "type" : "Exercise Bike"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.09114",
+    "latitude" : "-35.341331"
+  },
+  "id" : "522",
+  "division" : "Phillip",
+  "location" : "Edison District Park",
+  "longitude" : "149.09114",
+  "latitude" : "-35.341331",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.146077",
+    "latitude" : "-35.171475"
+  },
+  "id" : "542",
+  "division" : "Forde",
+  "location" : "Loma Rudduck Street Pedestrian Parkland",
+  "longitude" : "149.146077",
+  "latitude" : "-35.171475",
+  "type" : "Balance Beam"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.09388",
+    "latitude" : "-35.171289"
+  },
+  "id" : "582",
+  "division" : "Casey",
+  "location" : "John Crawford Crescent Neighbourhood Park",
+  "longitude" : "149.09388",
+  "latitude" : "-35.171289",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.094203",
+    "latitude" : "-35.171564"
+  },
+  "id" : "584",
+  "division" : "Casey",
+  "location" : "John Crawford Crescent Neighbourhood Park",
+  "longitude" : "149.094203",
+  "latitude" : "-35.171564",
+  "type" : "Body Lift"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.094089",
+    "latitude" : "-35.171255"
+  },
+  "id" : "586",
+  "division" : "Casey",
+  "location" : "John Crawford Crescent Neighbourhood Park",
+  "longitude" : "149.094089",
+  "latitude" : "-35.171255",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.138784",
+    "latitude" : "-35.262629"
+  },
+  "id" : "100",
+  "division" : "Ainslie",
+  "location" : "Ainslie Football Park",
+  "longitude" : "149.138784",
+  "latitude" : "-35.262629",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.138779",
+    "latitude" : "-35.262681"
+  },
+  "id" : "102",
+  "division" : "Ainslie",
+  "location" : "Ainslie Football Park",
+  "longitude" : "149.138779",
+  "latitude" : "-35.262681",
+  "type" : "Parallel Bars"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.138734",
+    "latitude" : "-35.262985"
+  },
+  "id" : "104",
+  "division" : "Ainslie",
+  "location" : "Ainslie Football Park",
+  "longitude" : "149.138734",
+  "latitude" : "-35.262985",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.138715",
+    "latitude" : "-35.263009"
+  },
+  "id" : "106",
+  "division" : "Ainslie",
+  "location" : "Ainslie Football Park",
+  "longitude" : "149.138715",
+  "latitude" : "-35.263009",
+  "type" : "Other"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.138728",
+    "latitude" : "-35.263033"
+  },
+  "id" : "108",
+  "division" : "Ainslie",
+  "location" : "Ainslie Football Park",
+  "longitude" : "149.138728",
+  "latitude" : "-35.263033",
+  "type" : "Vault"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.138549",
+    "latitude" : "-35.263536"
+  },
+  "id" : "110",
+  "division" : "Ainslie",
+  "location" : "Ainslie Football Park",
+  "longitude" : "149.138549",
+  "latitude" : "-35.263536",
+  "type" : "Step Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.138529",
+    "latitude" : "-35.263555"
+  },
+  "id" : "112",
+  "division" : "Ainslie",
+  "location" : "Ainslie Football Park",
+  "longitude" : "149.138529",
+  "latitude" : "-35.263555",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.115482",
+    "latitude" : "-35.2871"
+  },
+  "id" : "114",
+  "division" : "Acton",
+  "location" : "Lake Burley Griffin Foreshore",
+  "longitude" : "149.115482",
+  "latitude" : "-35.2871",
+  "type" : "Bench Dip"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.112389",
+    "latitude" : "-35.223016"
+  },
+  "id" : "118",
+  "division" : "Kaleen",
+  "location" : "Ashburton Circuit Neighbourhood Park",
+  "longitude" : "149.112389",
+  "latitude" : "-35.223016",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.112538",
+    "latitude" : "-35.221651"
+  },
+  "id" : "120",
+  "division" : "Kaleen",
+  "location" : "Woronora Street Pedestrian Parkland",
+  "longitude" : "149.112538",
+  "latitude" : "-35.221651",
+  "type" : "Parallel Bars"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.113211",
+    "latitude" : "-35.22111"
+  },
+  "id" : "122",
+  "division" : "Kaleen",
+  "location" : "Woronora Street Pedestrian Parkland",
+  "longitude" : "149.113211",
+  "latitude" : "-35.22111",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.111595",
+    "latitude" : "-35.221283"
+  },
+  "id" : "124",
+  "division" : "Kaleen",
+  "location" : "Woronora Street Pedestrian Parkland",
+  "longitude" : "149.111595",
+  "latitude" : "-35.221283",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.111542",
+    "latitude" : "-35.2229"
+  },
+  "id" : "126",
+  "division" : "Kaleen",
+  "location" : "Maribyrnong Avenue Neighbourhood Park",
+  "longitude" : "149.111542",
+  "latitude" : "-35.2229",
+  "type" : "Parallel Bars"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095576",
+    "latitude" : "-35.315287"
+  },
+  "id" : "128",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095576",
+  "latitude" : "-35.315287",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.09555",
+    "latitude" : "-35.315291"
+  },
+  "id" : "130",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.09555",
+  "latitude" : "-35.315291",
+  "type" : "Log Hop"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095539",
+    "latitude" : "-35.315268"
+  },
+  "id" : "132",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095539",
+  "latitude" : "-35.315268",
+  "type" : "Chest Press & Pull Downs"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095525",
+    "latitude" : "-35.31529"
+  },
+  "id" : "134",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095525",
+  "latitude" : "-35.31529",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095502",
+    "latitude" : "-35.3153"
+  },
+  "id" : "136",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095502",
+  "latitude" : "-35.3153",
+  "type" : "Leap Frog Pole"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095528",
+    "latitude" : "-35.315326"
+  },
+  "id" : "138",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095528",
+  "latitude" : "-35.315326",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095497",
+    "latitude" : "-35.315332"
+  },
+  "id" : "140",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095497",
+  "latitude" : "-35.315332",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095528",
+    "latitude" : "-35.315335"
+  },
+  "id" : "142",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095528",
+  "latitude" : "-35.315335",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095509",
+    "latitude" : "-35.315354"
+  },
+  "id" : "144",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095509",
+  "latitude" : "-35.315354",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095552",
+    "latitude" : "-35.315337"
+  },
+  "id" : "146",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095552",
+  "latitude" : "-35.315337",
+  "type" : "Push Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095574",
+    "latitude" : "-35.315335"
+  },
+  "id" : "148",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095574",
+  "latitude" : "-35.315335",
+  "type" : "Vault"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.095598",
+    "latitude" : "-35.315316"
+  },
+  "id" : "150",
+  "division" : "Deakin",
+  "location" : "Denison Street - Pedestrian Parkland",
+  "longitude" : "149.095598",
+  "latitude" : "-35.315316",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.122135",
+    "latitude" : "-35.299468"
+  },
+  "id" : "154",
+  "division" : "Yarralumla",
+  "location" : "Flynn Drive - Road Verge",
+  "longitude" : "149.122135",
+  "latitude" : "-35.299468",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.121774",
+    "latitude" : "-35.299359"
+  },
+  "id" : "156",
+  "division" : "Yarralumla",
+  "location" : "Lennox Gardens",
+  "longitude" : "149.121774",
+  "latitude" : "-35.299359",
+  "type" : "Balance Beam"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.122504",
+    "latitude" : "-35.298642"
+  },
+  "id" : "160",
+  "division" : "Yarralumla",
+  "location" : "Lennox Gardens",
+  "longitude" : "149.122504",
+  "latitude" : "-35.298642",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.121029",
+    "latitude" : "-35.300453"
+  },
+  "id" : "162",
+  "division" : "Yarralumla",
+  "location" : "Mariner Place - Pedestrian Parkland",
+  "longitude" : "149.121029",
+  "latitude" : "-35.300453",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.117922",
+    "latitude" : "-35.300668"
+  },
+  "id" : "166",
+  "division" : "Yarralumla",
+  "location" : "Mariner Place - Pedestrian Parkland",
+  "longitude" : "149.117922",
+  "latitude" : "-35.300668",
+  "type" : "Star Jumps"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.116812",
+    "latitude" : "-35.300346"
+  },
+  "id" : "168",
+  "division" : "Yarralumla",
+  "location" : "Alexandrina Drive - Pedestrian Parkland",
+  "longitude" : "149.116812",
+  "latitude" : "-35.300346",
+  "type" : "Parallel Bars"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.115972",
+    "latitude" : "-35.299931"
+  },
+  "id" : "170",
+  "division" : "Yarralumla",
+  "location" : "Alexandrina Drive - Pedestrian Parkland",
+  "longitude" : "149.115972",
+  "latitude" : "-35.299931",
+  "type" : "Leg Raises & Pull Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.113523",
+    "latitude" : "-35.299319"
+  },
+  "id" : "172",
+  "division" : "Yarralumla",
+  "location" : "Lake Burley Griffin Foreshore",
+  "longitude" : "149.113523",
+  "latitude" : "-35.299319",
+  "type" : "Push Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.112963",
+    "latitude" : "-35.299535"
+  },
+  "id" : "174",
+  "division" : "Yarralumla",
+  "location" : "Alexandrina Drive - Pedestrian Parkland",
+  "longitude" : "149.112963",
+  "latitude" : "-35.299535",
+  "type" : "Step Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.112865",
+    "latitude" : "-35.299756"
+  },
+  "id" : "176",
+  "division" : "Yarralumla",
+  "location" : "Alexandrina Drive - Pedestrian Parkland",
+  "longitude" : "149.112865",
+  "latitude" : "-35.299756",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.111371",
+    "latitude" : "-35.299631"
+  },
+  "id" : "178",
+  "division" : "Yarralumla",
+  "location" : "Alexandrina Drive - Pedestrian Parkland",
+  "longitude" : "149.111371",
+  "latitude" : "-35.299631",
+  "type" : "Other"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.111757",
+    "latitude" : "-35.298517"
+  },
+  "id" : "180",
+  "division" : "Yarralumla",
+  "location" : "Alexandrina Drive - Native Grassland Site",
+  "longitude" : "149.111757",
+  "latitude" : "-35.298517",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.111102",
+    "latitude" : "-35.298054"
+  },
+  "id" : "182",
+  "division" : "Yarralumla",
+  "location" : "Alexandrina Drive - Native Grassland Site",
+  "longitude" : "149.111102",
+  "latitude" : "-35.298054",
+  "type" : "Parallel Bars"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.108409",
+    "latitude" : "-35.296682"
+  },
+  "id" : "186",
+  "division" : "Yarralumla",
+  "location" : "Alexandrina Drive - Pedestrian Parkland",
+  "longitude" : "149.108409",
+  "latitude" : "-35.296682",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.068039",
+    "latitude" : "-35.412334"
+  },
+  "id" : "194",
+  "division" : "Greenway",
+  "location" : "Tuggeranong Town Park",
+  "longitude" : "149.068039",
+  "latitude" : "-35.412334",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.147076",
+    "latitude" : "-35.152422"
+  },
+  "id" : "622",
+  "division" : "Bonner",
+  "location" : "Bilin Bilins Treet Neighbourhood Park",
+  "longitude" : "149.147076",
+  "latitude" : "-35.152422",
+  "type" : "Ping Pong Table"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.152324",
+    "latitude" : "-35.203974"
+  },
+  "id" : "196",
+  "division" : "Harrison",
+  "location" : "Eric Mawson Street Neighbourhood Park",
+  "longitude" : "149.152324",
+  "latitude" : "-35.203974",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.143759",
+    "latitude" : "-35.172773"
+  },
+  "id" : "502",
+  "division" : "Forde",
+  "location" : "Zakharov Avenue Pedestrian Parkland",
+  "longitude" : "149.143759",
+  "latitude" : "-35.172773",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.142986",
+    "latitude" : "-35.173937"
+  },
+  "id" : "504",
+  "division" : "Forde",
+  "location" : "Leslie Dwyer Street Pedestrian Parkland",
+  "longitude" : "149.142986",
+  "latitude" : "-35.173937",
+  "type" : "Jump To Touch"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.14212",
+    "latitude" : "-35.175346"
+  },
+  "id" : "506",
+  "division" : "Forde",
+  "location" : "Horse Park Drive Pedestrian Parkland",
+  "longitude" : "149.14212",
+  "latitude" : "-35.175346",
+  "type" : "Horizontal Ladder"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.146057",
+    "latitude" : "-35.171472"
+  },
+  "id" : "508",
+  "division" : "Forde",
+  "location" : "Loma Rudduck Street Pedestrian Parkland",
+  "longitude" : "149.146057",
+  "latitude" : "-35.171472",
+  "type" : "Balance Beam"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.103014",
+    "latitude" : "-35.200707"
+  },
+  "id" : "642",
+  "division" : "Crace",
+  "location" : "Crace Crip Community Park",
+  "longitude" : "149.103014",
+  "latitude" : "-35.200707",
+  "type" : "Chest Press & Pull Downs"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.09114",
+    "latitude" : "-35.341363"
+  },
+  "id" : "524",
+  "division" : "Phillip",
+  "location" : "Eddison District Park",
+  "longitude" : "149.09114",
+  "latitude" : "-35.341363",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.039967",
+    "latitude" : "-35.326959"
+  },
+  "id" : "562",
+  "division" : "Wright",
+  "location" : "Lindsay Pryor Street Pedestrian Parkland",
+  "longitude" : "149.039967",
+  "latitude" : "-35.326959",
+  "type" : "Balance Beam"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.039977",
+    "latitude" : "-35.326955"
+  },
+  "id" : "564",
+  "division" : "Wright",
+  "location" : "Lindsay Pryor Street Pedestrian Parkland",
+  "longitude" : "149.039977",
+  "latitude" : "-35.326955",
+  "type" : "Step Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.040064",
+    "latitude" : "-35.32696"
+  },
+  "id" : "566",
+  "division" : "Wright",
+  "location" : "Lindsay Pryor Street Pedestrian Parkland",
+  "longitude" : "149.040064",
+  "latitude" : "-35.32696",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.090392",
+    "latitude" : "-35.342004"
+  },
+  "id" : "486",
+  "division" : "Phillip",
+  "location" : "Eddison District Park",
+  "longitude" : "149.090392",
+  "latitude" : "-35.342004",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.103043",
+    "latitude" : "-35.200718"
+  },
+  "id" : "644",
+  "division" : "Crace",
+  "location" : "Crace Crip Community Park",
+  "longitude" : "149.103043",
+  "latitude" : "-35.200718",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.10307",
+    "latitude" : "-35.200725"
+  },
+  "id" : "646",
+  "division" : "Crace",
+  "location" : "Crace Crip Community Park",
+  "longitude" : "149.10307",
+  "latitude" : "-35.200725",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.103096",
+    "latitude" : "-35.200731"
+  },
+  "id" : "648",
+  "division" : "Crace",
+  "location" : "Crace Crip Community Park",
+  "longitude" : "149.103096",
+  "latitude" : "-35.200731",
+  "type" : "Chest Press & Pull Downs"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.103033",
+    "latitude" : "-35.200675"
+  },
+  "id" : "650",
+  "division" : "Crace",
+  "location" : "Crace Crip Community Park",
+  "longitude" : "149.103033",
+  "latitude" : "-35.200675",
+  "type" : "Chest Press & Pull Downs"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.103068",
+    "latitude" : "-35.200686"
+  },
+  "id" : "652",
+  "division" : "Crace",
+  "location" : "Crace Crip Community Park",
+  "longitude" : "149.103068",
+  "latitude" : "-35.200686",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.1031",
+    "latitude" : "-35.200698"
+  },
+  "id" : "654",
+  "division" : "Crace",
+  "location" : "Crace Crip Community Park",
+  "longitude" : "149.1031",
+  "latitude" : "-35.200698",
+  "type" : "Push Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.141668",
+    "latitude" : "-35.1726"
+  },
+  "id" : "662",
+  "division" : "Forde",
+  "location" : "Ray Ellis Crescent District Park",
+  "longitude" : "149.141668",
+  "latitude" : "-35.1726",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.142171",
+    "latitude" : "-35.170142"
+  },
+  "id" : "664",
+  "division" : "Forde",
+  "location" : "Amy Ackman Street Pedestrian Parkland",
+  "longitude" : "149.142171",
+  "latitude" : "-35.170142",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.114236",
+    "latitude" : "-35.298986"
+  },
+  "id" : "666",
+  "division" : "Yarralumla",
+  "location" : "Alexandrina Drive - Road Verge",
+  "longitude" : "149.114236",
+  "latitude" : "-35.298986",
+  "type" : "Hurdles"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.052062",
+    "latitude" : "-35.38348"
+  },
+  "id" : "242",
+  "division" : "Kambah",
+  "location" : "Boddington Crescent Neighbourhood Park",
+  "longitude" : "149.052062",
+  "latitude" : "-35.38348",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.051897",
+    "latitude" : "-35.383497"
+  },
+  "id" : "244",
+  "division" : "Kambah",
+  "location" : "Kamb-1765",
+  "longitude" : "149.051897",
+  "latitude" : "-35.383497",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.051776",
+    "latitude" : "-35.383368"
+  },
+  "id" : "246",
+  "division" : "Kambah",
+  "location" : "Kamb-1765",
+  "longitude" : "149.051776",
+  "latitude" : "-35.383368",
+  "type" : "Other"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.062102",
+    "latitude" : "-35.258412"
+  },
+  "id" : "262",
+  "division" : "Cook",
+  "location" : "Templeton Crescent Neighbourhood Park",
+  "longitude" : "149.062102",
+  "latitude" : "-35.258412",
+  "type" : "Jump To Touch"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.062162",
+    "latitude" : "-35.258439"
+  },
+  "id" : "264",
+  "division" : "Cook",
+  "location" : "Templeton Crescent Neighbourhood Park",
+  "longitude" : "149.062162",
+  "latitude" : "-35.258439",
+  "type" : "Parallel Bars"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.062138",
+    "latitude" : "-35.258367"
+  },
+  "id" : "266",
+  "division" : "Cook",
+  "location" : "Templeton Crescent Neighbourhood Park",
+  "longitude" : "149.062138",
+  "latitude" : "-35.258367",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.06219",
+    "latitude" : "-35.258394"
+  },
+  "id" : "268",
+  "division" : "Cook",
+  "location" : "Templeton Crescent Neighbourhood Park",
+  "longitude" : "149.06219",
+  "latitude" : "-35.258394",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.077925",
+    "latitude" : "-35.351399"
+  },
+  "id" : "202",
+  "division" : "Chifley",
+  "location" : "Shann Place Neighbourhood Park",
+  "longitude" : "149.077925",
+  "latitude" : "-35.351399",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.077969",
+    "latitude" : "-35.351356"
+  },
+  "id" : "204",
+  "division" : "Chifley",
+  "location" : "Shann Place Neighbourhood Park",
+  "longitude" : "149.077969",
+  "latitude" : "-35.351356",
+  "type" : "Push Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.013194",
+    "latitude" : "-35.222584"
+  },
+  "id" : "302",
+  "division" : "Holt",
+  "location" : "Beaurepaire Crescent Neighbourhood Park",
+  "longitude" : "149.013194",
+  "latitude" : "-35.222584",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.013437",
+    "latitude" : "-35.222343"
+  },
+  "id" : "304",
+  "division" : "Holt",
+  "location" : "Beaurepaire Crescent Neighbourhood Park",
+  "longitude" : "149.013437",
+  "latitude" : "-35.222343",
+  "type" : "Push Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.013459",
+    "latitude" : "-35.222043"
+  },
+  "id" : "306",
+  "division" : "Holt",
+  "location" : "Beaurepaire Crescent Neighbourhood Park",
+  "longitude" : "149.013459",
+  "latitude" : "-35.222043",
+  "type" : "Parallel Bars"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.03784",
+    "latitude" : "-35.347911"
+  },
+  "id" : "422",
+  "division" : "Rivett",
+  "location" : "Bangalay Crescent Neighbourhood Park",
+  "longitude" : "149.03784",
+  "latitude" : "-35.347911",
+  "type" : "Step Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.037607",
+    "latitude" : "-35.347981"
+  },
+  "id" : "424",
+  "division" : "Rivett",
+  "location" : "Bangalay Crescent Neighbourhood Park",
+  "longitude" : "149.037607",
+  "latitude" : "-35.347981",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.037421",
+    "latitude" : "-35.347917"
+  },
+  "id" : "426",
+  "division" : "Rivett",
+  "location" : "Bangalay Crescent Neighbourhood Park",
+  "longitude" : "149.037421",
+  "latitude" : "-35.347917",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073709",
+    "latitude" : "-35.23716"
+  },
+  "id" : "370",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073709",
+  "latitude" : "-35.23716",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073751",
+    "latitude" : "-35.237171"
+  },
+  "id" : "372",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073751",
+  "latitude" : "-35.237171",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073722",
+    "latitude" : "-35.237172"
+  },
+  "id" : "374",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073722",
+  "latitude" : "-35.237172",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073782",
+    "latitude" : "-35.237264"
+  },
+  "id" : "376",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073782",
+  "latitude" : "-35.237264",
+  "type" : "Bench Dip"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073796",
+    "latitude" : "-35.237291"
+  },
+  "id" : "378",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073796",
+  "latitude" : "-35.237291",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073844",
+    "latitude" : "-35.237297"
+  },
+  "id" : "382",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073844",
+  "latitude" : "-35.237297",
+  "type" : "Log Hop"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073929",
+    "latitude" : "-35.237121"
+  },
+  "id" : "384",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073929",
+  "latitude" : "-35.237121",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073958",
+    "latitude" : "-35.237144"
+  },
+  "id" : "386",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073958",
+  "latitude" : "-35.237144",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073905",
+    "latitude" : "-35.237156"
+  },
+  "id" : "388",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073905",
+  "latitude" : "-35.237156",
+  "type" : "Step Ups"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.07397",
+    "latitude" : "-35.237166"
+  },
+  "id" : "390",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.07397",
+  "latitude" : "-35.237166",
+  "type" : "Horizontal Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073964",
+    "latitude" : "-35.23719"
+  },
+  "id" : "392",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073964",
+  "latitude" : "-35.23719",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073737",
+    "latitude" : "-35.237148"
+  },
+  "id" : "362",
+  "division" : "Belconnen",
+  "location" : "John Knight  Memorial Park",
+  "longitude" : "149.073737",
+  "latitude" : "-35.237148",
+  "type" : "Vault"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.073732",
+    "latitude" : "-35.237141"
+  },
+  "id" : "364",
+  "division" : "Belconnen",
+  "location" : "John Knight Memorial Park",
+  "longitude" : "149.073732",
+  "latitude" : "-35.237141",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071178",
+    "latitude" : "-35.385692"
+  },
+  "id" : "222",
+  "division" : "Kambah",
+  "location" : "Summerland Circuit Neighbourhood Park",
+  "longitude" : "149.071178",
+  "latitude" : "-35.385692",
+  "type" : "Chinup Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071155",
+    "latitude" : "-35.385725"
+  },
+  "id" : "224",
+  "division" : "Kambah",
+  "location" : "Summerland Circuit Neighbourhood Park",
+  "longitude" : "149.071155",
+  "latitude" : "-35.385725",
+  "type" : "Sit Up Bench"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071203",
+    "latitude" : "-35.385719"
+  },
+  "id" : "226",
+  "division" : "Kambah",
+  "location" : "Summerland Circuit Neighbourhood Park",
+  "longitude" : "149.071203",
+  "latitude" : "-35.385719",
+  "type" : "Horizontal Bar"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.0779",
+    "latitude" : "-35.351354"
+  },
+  "id" : "206",
+  "division" : "Chifley",
+  "location" : "Shann Place Neighbourhood Park",
+  "longitude" : "149.0779",
+  "latitude" : "-35.351354",
+  "type" : "Parallel Bars"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.077806",
+    "latitude" : "-35.351245"
+  },
+  "id" : "208",
+  "division" : "Chifley",
+  "location" : "Shann Place Neighbourhood Park",
+  "longitude" : "149.077806",
+  "latitude" : "-35.351245",
+  "type" : "Stretching Equipment"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.077829",
+    "latitude" : "-35.3512"
+  },
+  "id" : "210",
+  "division" : "Chifley",
+  "location" : "Shann Place Neighbourhood Park",
+  "longitude" : "149.077829",
+  "latitude" : "-35.3512",
+  "type" : "Jump To Touch"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.077787",
+    "latitude" : "-35.351202"
+  },
+  "id" : "212",
+  "division" : "Chifley",
+  "location" : "Shann Place Neighbourhood Park",
+  "longitude" : "149.077787",
+  "latitude" : "-35.351202",
+  "type" : "Balance Beam"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.142332",
+    "latitude" : "-35.169103"
+  },
+  "id" : "334",
+  "division" : "Forde",
+  "location" : "Forde Linear Park",
+  "longitude" : "149.142332",
+  "latitude" : "-35.169103",
+  "type" : "Horizontal Ladder"
+}
+, {
+  "location_1_2" : {
+    "needs_recoding" : false,
+    "longitude" : "149.143776",
+    "latitude" : "-35.167647"
+  },
+  "id" : "336",
+  "division" : "Forde",
+  "location" : "Forde Linear Park",
+  "longitude" : "149.143776",
+  "latitude" : "-35.167647",
+  "type" : "Chinup Bar"
+}
+ ]

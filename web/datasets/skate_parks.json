@@ -1,0 +1,241 @@
+[ {
+  "id" : "Skpk5",
+  "division" : "Barton South",
+  "location" : "Telopea Park",
+  "longitude" : "149.136052",
+  "latitude" : "-35.316038",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.136052",
+    "latitude" : "-35.316038"
+  }
+}
+, {
+  "id" : "Skpk1",
+  "division" : "Belconnen",
+  "location" : "Emu Bank Pedestrian Parkland",
+  "longitude" : "149.072554",
+  "latitude" : "-35.239332",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.072554",
+    "latitude" : "-35.239332"
+  }
+}
+, {
+  "id" : "Skpk16",
+  "division" : "Campbell",
+  "location" : "White Crescent Neighbourhood Park",
+  "longitude" : "149.155446",
+  "latitude" : "-35.288843",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.155446",
+    "latitude" : "-35.288843"
+  }
+}
+, {
+  "id" : "Skpk11",
+  "division" : "Charnwood",
+  "location" : "Barnes Place Neighbourhood Park",
+  "longitude" : "149.038845",
+  "latitude" : "-35.196038",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.038845",
+    "latitude" : "-35.196038"
+  }
+}
+, {
+  "id" : "Skpk6",
+  "division" : "City",
+  "location" : "Ballumbir Street",
+  "longitude" : "149.13462",
+  "latitude" : "-35.27813",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.13462",
+    "latitude" : "-35.27813"
+  }
+}
+, {
+  "id" : "Skpk20",
+  "division" : "Conder",
+  "location" : "Sidney Nolan Street",
+  "longitude" : "149.094805",
+  "latitude" : "-35.458384",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.094805",
+    "latitude" : "-35.458384"
+  }
+}
+, {
+  "id" : "Skpk9",
+  "division" : "Fadden",
+  "location" : "Fadden Pines District Park",
+  "longitude" : "149.120424",
+  "latitude" : "-35.409974",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.120424",
+    "latitude" : "-35.409974"
+  }
+}
+, {
+  "id" : "Skpk19",
+  "division" : "Flynn",
+  "location" : "George Simpson Park Surround",
+  "longitude" : "149.044027",
+  "latitude" : "-35.207598",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.044027",
+    "latitude" : "-35.207598"
+  }
+}
+, {
+  "id" : "Skpk3",
+  "division" : "Greenway",
+  "location" : "Tuggeranong Town Park",
+  "longitude" : "149.064239",
+  "latitude" : "-35.410104",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.064239",
+    "latitude" : "-35.410104"
+  }
+}
+, {
+  "id" : "Skpk12",
+  "division" : "Gungahlin",
+  "location" : "Yerrabi District Park",
+  "longitude" : "149.131016",
+  "latitude" : "-35.178893",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.131016",
+    "latitude" : "-35.178893"
+  }
+}
+, {
+  "id" : "Skpk2",
+  "division" : "Gungahlin",
+  "location" : "Yerrabi District Park",
+  "longitude" : "149.129395",
+  "latitude" : "-35.180126",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.129395",
+    "latitude" : "-35.180126"
+  }
+}
+, {
+  "id" : "Skpk10",
+  "division" : "Holt",
+  "location" : "Moyes Cresent Pedestrian Parkland",
+  "longitude" : "149.020255",
+  "latitude" : "-35.22112",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.020255",
+    "latitude" : "-35.22112"
+  }
+}
+, {
+  "id" : "Skpk14",
+  "division" : "Kambah",
+  "location" : "Kambah District Park",
+  "longitude" : "149.063552",
+  "latitude" : "-35.392839",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.063552",
+    "latitude" : "-35.392839"
+  }
+}
+, {
+  "id" : "Skpk17",
+  "division" : "Macarthur",
+  "location" : "Hawkesworth Place Neighbourhood Park",
+  "longitude" : "149.129023",
+  "latitude" : "-35.408198",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.129023",
+    "latitude" : "-35.408198"
+  }
+}
+, {
+  "id" : "Skpk7",
+  "division" : "Phillip",
+  "location" : "Eddison Town Park",
+  "longitude" : "149.091375",
+  "latitude" : "-35.339971",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.091375",
+    "latitude" : "-35.339971"
+  }
+}
+, {
+  "id" : "Skpk18",
+  "division" : "Richardson",
+  "location" : "Clift Crescent Pedestrian Parkland",
+  "longitude" : "149.115193",
+  "latitude" : "-35.427073",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.115193",
+    "latitude" : "-35.427073"
+  }
+}
+, {
+  "id" : "Skpk15",
+  "division" : "Rivett",
+  "location" : "Sollya Place Pedestrian Parkland",
+  "longitude" : "149.032661",
+  "latitude" : "-35.349358",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.032661",
+    "latitude" : "-35.349358"
+  }
+}
+, {
+  "id" : "Skpk13",
+  "division" : "Stirling",
+  "location" : "Sherratt Place Pedestrian Parkland",
+  "longitude" : "149.045266",
+  "latitude" : "-35.349766",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.045266",
+    "latitude" : "-35.349766"
+  }
+}
+, {
+  "id" : "Skpk8",
+  "division" : "Wanniassa",
+  "location" : "Creman Close Pedestrian Parkland",
+  "longitude" : "149.097508",
+  "latitude" : "-35.402487",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.097508",
+    "latitude" : "-35.402487"
+  }
+}
+, {
+  "id" : "Skpk4",
+  "division" : "Weston",
+  "location" : "Dillon Close - Pedestrian Parkland",
+  "longitude" : "149.053905",
+  "latitude" : "-35.337431",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.053905",
+    "latitude" : "-35.337431"
+  }
+}
+ ]

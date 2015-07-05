@@ -1,0 +1,157 @@
+body, html {
+    overflow-y: hidden; 
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+#controls {
+    position: fixed;
+    margin-left: 20px;
+    bottom: 0px;
+    width: 550px;
+}
+
+#suggestions {
+    position: fixed;
+    margin-left: 590px;
+    bottom: 0px;
+    width: 540px;
+    height: 140px;
+}
+
+#suggestions button {
+	margin-top: 10px;
+	height: 50px;
+}
+
+.button-padding {
+	margin-left: 5px;
+}
+
+.inlineItem {
+    float: right;
+    
+}
+
+.checkbox_ctrl_panel {
+    margin-right: 40px;
+    width: 150px;
+}
+
+a span {
+    color: white;
+}
+
+#map-canvas, #map-canvas-background {
+    position: absolute;
+    width: 100%;
+    background-color: none;
+    top: 65px;
+}
+
+.spinner {
+  margin: 100px auto;
+  width: 50px;
+  height: 30px;
+  text-align: center;
+  font-size: 10px;
+  margin-top: 300px;
+}
+
+.spinner > div {
+  background-color: #333;
+  height: 100%;
+  width: 6px;
+  display: inline-block;
+  
+  -webkit-animation: stretchdelay 1.2s infinite ease-in-out;
+  animation: stretchdelay 1.2s infinite ease-in-out;
+}
+
+.spinner .rect2 {
+  -webkit-animation-delay: -1.1s;
+  animation-delay: -1.1s;
+}
+
+.spinner .rect3 {
+  -webkit-animation-delay: -1.0s;
+  animation-delay: -1.0s;
+}
+
+.spinner .rect4 {
+  -webkit-animation-delay: -0.9s;
+  animation-delay: -0.9s;
+}
+
+.spinner .rect5 {
+  -webkit-animation-delay: -0.8s;
+  animation-delay: -0.8s;
+}
+
+@-webkit-keyframes stretchdelay {
+  0%, 40%, 100% { -webkit-transform: scaleY(0.4) }  
+  20% { -webkit-transform: scaleY(1.0) }
+}
+
+@keyframes stretchdelay {
+  0%, 40%, 100% { 
+    transform: scaleY(0.4);
+    -webkit-transform: scaleY(0.4);
+  }  20% { 
+    transform: scaleY(1.0);
+    -webkit-transform: scaleY(1.0);
+  }
+}
+
+.modal-color-red .modal-backdrop {
+  background-color: #f00;
+}
+
+.modal-backdrop
+{
+    opacity:0 !important;
+    pointer-events: none;
+}
+
+#item-modal .modal-content {
+	position: fixed;
+	top: 87px;
+	left: 22px;
+	min-width: 500px;
+}
+.modal-dialog {
+    margin: 0;
+}
+
+#aboutUs {
+	
+	margin-left: 20px;
+	text-align: justify;
+	
+}
+
+#getDirections {
+	
+	margin-bottom: 14px;
+	margin-left: 14px;
+	
+}
+
+/*.suggestion {
+	width: 450px;
+	margin-left: 50px;
+}
+
+#suggest-modal {
+    top: 40%;
+    left: 40%;
+}*/
+#controls {
+    height: 140px;
+}
+
+.btn {
+	padding: 10px;
+}

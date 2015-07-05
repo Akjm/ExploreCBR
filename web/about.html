@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	 <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>About ExploreCBR</title>
+        
+        
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        
+        <!-- Bootswatch paper bootstrap CSS -->
+        <link href="https://bootswatch.com/paper/bootstrap.min.css" type="text/css" rel="stylesheet" />
+        
+        <!-- External stylesheet -->
+        <link href="index.css" type="text/css" rel="stylesheet" />
+        
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" href="img/32/favicon.png" />
+        <style>
+        	#aboutUs{
+        		margin: 0 auto;
+        		width: 1000px;
+        		text-align: center;
+        	}
+        </style>
+</head>
+<body>
+	<script>
+            function help() {
+                $('#myModal').modal("show");
+            }
+            
+            function generateModal(title, body) {
+            	document.getElementById("item-modal-title").innerHTML = title;
+            	document.getElementById("item-modal-body").innerHTML = body;
+            	$('#item-modal').modal("show");
+            }
+            
+        </script>
+        
+        <nav class="navbar navbar-default">
+          <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#"><img src="img/logo.png" alt="Logo" style="margin-top:-18px" height="60px" /></a>
+              <a class="navbar-brand" href="index.html">ExploreCBR</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">About</a></li>
+                <li class="dropdown">
+
+                </li>
+              </ul>
+              
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="http://www.alconunited.com" target="_blank">Alcon United</a></li>
+
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+        <script src="javascript/main.js"></script>
+        
+        <div id="aboutUs">
+        	<h2>About Us</h2>
+        	<p>This webapp was made by Alcon United. Alcon United is a group of five student programmars. This WebApp was made as a project for GovHack.</p>
+		<div class="media">
+		 	<div class="media-body">
+		    	<h4 class="media-heading">About Explore CBR</h4>
+		    	Explore CBR is a webapp that shows people in Canberra many 
+		  	</div>
+		  	<div>
+		  		<p>
+		  			
+		  		</p>
+		  	</div>
+		  	<img src="teamImage.jpeg" alt="A photo of Alcon United">
+		</div>
+		
+</div>
+</body>
+</html>

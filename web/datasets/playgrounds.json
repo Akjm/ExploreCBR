@@ -1,0 +1,937 @@
+[ {
+  "asset_id" : "Plgr492",
+  "location" : "Garryowen Drive",
+  "longitude" : "149.10113",
+  "equipment" : "This playground has 3 play areas with a total of 9 structures, featuring a balancing item 2 combinations of play structures 2 rockers 4 swings.",
+  "latitude" : "-35.292293",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.10113",
+    "latitude" : "-35.292293"
+  },
+  "division_name" : "Acton"
+}
+, {
+  "asset_id" : "Plgr1",
+  "location" : "Paterson Street",
+  "longitude" : "149.141573",
+  "equipment" : "This playground has 3 play areas with a total of 5 structures, featuring a combination of play structures 2 rockers a rotating item a swing.",
+  "latitude" : "-35.268807",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.141573",
+    "latitude" : "-35.268807"
+  },
+  "division_name" : "Ainslie"
+}
+, {
+  "asset_id" : "Plgr475",
+  "location" : "Bizant Street",
+  "longitude" : "149.135222",
+  "equipment" : "This playground has 1 play area with a total of 4 structures, featuring 2 combinations of play structures a rocker a swing.",
+  "latitude" : "-35.173731",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.135222",
+    "latitude" : "-35.173731"
+  },
+  "division_name" : "Amaroo"
+}
+, {
+  "asset_id" : "Plgr195",
+  "location" : "Telopea Park",
+  "longitude" : "149.137386",
+  "equipment" : "This playground has 1 play area with a total of 2 structures, featuring a combination of play structures a swing.",
+  "latitude" : "-35.315427",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.137386",
+    "latitude" : "-35.315427"
+  },
+  "division_name" : "Barton"
+}
+, {
+  "asset_id" : "Plgr130",
+  "location" : "Diddams Close (West)",
+  "longitude" : "149.071375",
+  "equipment" : "This playground has 3 play areas with a total of 8 structures, featuring 2 combinations of play structures 4 rockers 2 swings.",
+  "latitude" : "-35.226915",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071375",
+    "latitude" : "-35.226915"
+  },
+  "division_name" : "Belconnen"
+}
+, {
+  "asset_id" : "Plgr134",
+  "location" : "Macdermott Place",
+  "longitude" : "149.06283",
+  "equipment" : "This playground has 4 play areas with a total of 6 structures, featuring a bridge 2 combinations of play structures 2 rockers a swing.",
+  "latitude" : "-35.226643",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.06283",
+    "latitude" : "-35.226643"
+  },
+  "division_name" : "Belconnen"
+}
+, {
+  "asset_id" : "Plgr533",
+  "location" : "Townsend Place",
+  "longitude" : "149.075008",
+  "equipment" : "This playground has 3 play areas with a total of 9 structures, featuring a balancing item 3 combinations of play structures a flying fox 2 rockers 2 rotating items.",
+  "latitude" : "-35.236067",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.075008",
+    "latitude" : "-35.236067"
+  },
+  "division_name" : "Belconnen"
+}
+, {
+  "asset_id" : "Plgr535",
+  "location" : "Burgoyne Street",
+  "longitude" : "149.071626",
+  "equipment" : "This playground has 3 play areas with a total of 8 structures, featuring 2 climbing structures a combination of play structures a fort a rocker 3 swings.",
+  "latitude" : "-35.426458",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071626",
+    "latitude" : "-35.426458"
+  },
+  "division_name" : "Bonython"
+}
+, {
+  "asset_id" : "Plgr363",
+  "location" : "Tauchert Street",
+  "longitude" : "149.045936",
+  "equipment" : "This playground has 3 play areas with a total of 6 structures, featuring 3 combinations of play structures 2 rockers a swing.",
+  "latitude" : "-35.357473",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.045936",
+    "latitude" : "-35.357473"
+  },
+  "division_name" : "Chapman"
+}
+, {
+  "asset_id" : "Plgr372",
+  "location" : "Chifley Place",
+  "longitude" : "149.076644",
+  "equipment" : "This playground has 3 play areas with a total of 11 structures, featuring 3 combinations of play structures a fort a rocker 3 rotating items 2 sculptures a swing.",
+  "latitude" : "-35.352563",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.076644",
+    "latitude" : "-35.352563"
+  },
+  "division_name" : "Chifley"
+}
+, {
+  "asset_id" : "Plgr31",
+  "location" : "Glebe Park",
+  "longitude" : "149.135986",
+  "equipment" : "This playground has 1 play area with a total of 4 structures, featuring a combination of play structures 2 rockers a swing.",
+  "latitude" : "-35.28103",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.135986",
+    "latitude" : "-35.28103"
+  },
+  "division_name" : "City"
+}
+, {
+  "asset_id" : "Plgr219",
+  "location" : "Cremone Place",
+  "longitude" : "149.102993",
+  "equipment" : "This playground has 2 play areas with a total of 1 structure, featuring a combination of play structures.",
+  "latitude" : "-35.464394",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.102993",
+    "latitude" : "-35.464394"
+  },
+  "division_name" : "Conder"
+}
+, {
+  "asset_id" : "Plgr583",
+  "location" : "Templeton Street",
+  "longitude" : "149.061969",
+  "equipment" : "This playground has 2 play areas with a total of 10 structures, featuring a balancing item 2 monkey bars a combination of play structures a fort a panel 2 rockers a rotating item a swing.",
+  "latitude" : "-35.258968",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.061969",
+    "latitude" : "-35.258968"
+  },
+  "division_name" : "Cook"
+}
+, {
+  "asset_id" : "Plgr626",
+  "location" : "Narden Street Central Community Park (Crip)",
+  "longitude" : "149.102457",
+  "equipment" : "This playground has 5 play areas with a total of 7 structures, featuring a climbing structure 2 combinations of play structures a rocker a rotating item 2 swings.",
+  "latitude" : "-35.201696",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.102457",
+    "latitude" : "-35.201696"
+  },
+  "division_name" : "Crace"
+}
+, {
+  "asset_id" : "Plgr10",
+  "location" : "Hawdon Street",
+  "longitude" : "149.149211",
+  "equipment" : "This playground has 1 play area with a total of 3 structures, featuring a rocker a slide a swing.",
+  "latitude" : "-35.252691",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.149211",
+    "latitude" : "-35.252691"
+  },
+  "division_name" : "Dickson"
+}
+, {
+  "asset_id" : "Plgr587",
+  "location" : "Cnr Bonython And Melba Sts",
+  "longitude" : "149.143293",
+  "equipment" : "This playground has 1 play area with a total of 5 structures, featuring a combination of play structures a fort a rocker a rotating item a swing.",
+  "latitude" : "-35.2464",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.143293",
+    "latitude" : "-35.2464"
+  },
+  "division_name" : "Downer"
+}
+, {
+  "asset_id" : "Plgr521",
+  "location" : "James Harrison Street",
+  "longitude" : "149.017063",
+  "equipment" : "This playground has 1 play area with a total of 3 structures, featuring a combination of play structures a rocker a swing.",
+  "latitude" : "-35.191296",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.017063",
+    "latitude" : "-35.191296"
+  },
+  "division_name" : "Dunlop"
+}
+, {
+  "asset_id" : "Plgr162",
+  "location" : "Read Place",
+  "longitude" : "149.067009",
+  "equipment" : "This playground has 1 play area with a total of 5 structures, featuring a combination of play structures 3 rockers a swing.",
+  "latitude" : "-35.217985",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.067009",
+    "latitude" : "-35.217985"
+  },
+  "division_name" : "Evatt"
+}
+, {
+  "asset_id" : "Plgr443",
+  "location" : "Levine Street",
+  "longitude" : "149.064837",
+  "equipment" : "This playground has 2 play areas with a total of 6 structures, featuring 2 balancing items a climbing structure a combination of play structures a slide a swing.",
+  "latitude" : "-35.211358",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.064837",
+    "latitude" : "-35.211358"
+  },
+  "division_name" : "Evatt"
+}
+, {
+  "asset_id" : "Plgr228",
+  "location" : "Coyne Street",
+  "longitude" : "149.120537",
+  "equipment" : "This playground has 3 play areas with a total of 6 structures, featuring 2 combinations of play structures 3 rockers a swing.",
+  "latitude" : "-35.411023",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.120537",
+    "latitude" : "-35.411023"
+  },
+  "division_name" : "Fadden"
+}
+, {
+  "asset_id" : "Plgr349",
+  "location" : "Wagga Street",
+  "longitude" : "149.109419",
+  "equipment" : "This playground has 1 play area with a total of 3 structures, featuring a combination of play structures a rocker a swing.",
+  "latitude" : "-35.381481",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.109419",
+    "latitude" : "-35.381481"
+  },
+  "division_name" : "Farrer"
+}
+, {
+  "asset_id" : "Plgr89",
+  "location" : "Kesteven Street",
+  "longitude" : "149.054617",
+  "equipment" : "This playground has 1 play area with a total of 1 structure, featuring a combination of play structures.",
+  "latitude" : "-35.226588",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.054617",
+    "latitude" : "-35.226588"
+  },
+  "division_name" : "Florey"
+}
+, {
+  "asset_id" : "Plgr594",
+  "location" : "Neil Harris Crescent",
+  "longitude" : "149.141336",
+  "equipment" : "This playground has 2 play areas with a total of 9 structures, featuring 3 combinations of play structures an exercise item a rocker 3 rotating items a swing.",
+  "latitude" : "-35.172939",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.141336",
+    "latitude" : "-35.172939"
+  },
+  "division_name" : "Forde"
+}
+, {
+  "asset_id" : "Plgr612",
+  "location" : "Bruce Dittmar Central Community Park",
+  "longitude" : "149.145142",
+  "equipment" : "This playground has 2 play areas with a total of 7 structures, featuring a climbing structure a combination of play structures 3 rockers a rotating item a swing.",
+  "latitude" : "-35.176043",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.145142",
+    "latitude" : "-35.176043"
+  },
+  "division_name" : "Forde"
+}
+, {
+  "asset_id" : "Plgr619",
+  "location" : "Pahlman Street Neighbourhood Park",
+  "longitude" : "149.146402",
+  "equipment" : "This playground has 2 play areas with a total of 7 structures, featuring a balancing item 2 climbing structures a rocker 2 rotating items a swing.",
+  "latitude" : "-35.168284",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.146402",
+    "latitude" : "-35.168284"
+  },
+  "division_name" : "Forde"
+}
+, {
+  "asset_id" : "Plgr81",
+  "location" : "Shakespheare Crescent",
+  "longitude" : "149.040595",
+  "equipment" : "This playground has 1 play area with a total of 4 structures, featuring 2 combinations of play structures a rocker a swing.",
+  "latitude" : "-35.192023",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.040595",
+    "latitude" : "-35.192023"
+  },
+  "division_name" : "Fraser"
+}
+, {
+  "asset_id" : "Plgr278",
+  "location" : "Mcgilvray Close",
+  "longitude" : "149.083792",
+  "equipment" : "This playground has 5 play areas with a total of 21 structures, featuring a balancing item a bridge 4 climbing structures 2 combinations of play structures a rocker 3 rotating items 2 sandy play areas a sculpture a slide 5 swings.",
+  "latitude" : "-35.456039",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.083792",
+    "latitude" : "-35.456039"
+  },
+  "division_name" : "Gordon"
+}
+, {
+  "asset_id" : "Plgr328",
+  "location" : "Jeffries Street",
+  "longitude" : "149.110529",
+  "equipment" : "This playground has 2 play areas with a total of 7 structures, featuring a climbing structure 2 rockers a rotating item 2 sculptures a swing.",
+  "latitude" : "-35.414055",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.110529",
+    "latitude" : "-35.414055"
+  },
+  "division_name" : "Gowrie"
+}
+, {
+  "asset_id" : "Plgr240",
+  "location" : "De Little Circuit",
+  "longitude" : "149.070756",
+  "equipment" : "This playground has 3 play areas with a total of 3 structures, featuring 2 combinations of play structures a swing.",
+  "latitude" : "-35.404298",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.070756",
+    "latitude" : "-35.404298"
+  },
+  "division_name" : "Greenway"
+}
+, {
+  "asset_id" : "Plgr242",
+  "location" : "Anketell Street",
+  "longitude" : "149.065507",
+  "equipment" : "This playground has 4 play areas with a total of 5 structures, featuring 2 combinations of play structures 3 swings.",
+  "latitude" : "-35.411044",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.065507",
+    "latitude" : "-35.411044"
+  },
+  "division_name" : "Greenway"
+}
+, {
+  "asset_id" : "Plgr538",
+  "location" : "Pine Island Road",
+  "longitude" : "149.060129",
+  "equipment" : "This playground has 1 play area with a total of 3 structures, featuring a combination of play structures a rocker a swing.",
+  "latitude" : "-35.427376",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.060129",
+    "latitude" : "-35.427376"
+  },
+  "division_name" : "Greenway"
+}
+, {
+  "asset_id" : "Plgr525",
+  "location" : "Gungahlin Central Linear Park",
+  "longitude" : "149.134717",
+  "equipment" : "This playground has 2 play areas with a total of 4 structures, featuring a balancing item a climbing structure 2 rockers.",
+  "latitude" : "-35.186477",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.134717",
+    "latitude" : "-35.186477"
+  },
+  "division_name" : "Gungahlin"
+}
+, {
+  "asset_id" : "Plgr546",
+  "location" : "Wunderlich Street",
+  "longitude" : "149.13023",
+  "equipment" : "This playground has 5 play areas with a total of 11 structures, featuring a bridge a climbing structure 2 combinations of play structures a flying fox 3 rockers 3 swings.",
+  "latitude" : "-35.179261",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.13023",
+    "latitude" : "-35.179261"
+  },
+  "division_name" : "Gungahlin"
+}
+, {
+  "asset_id" : "Plgr14",
+  "location" : "Tryon Street",
+  "longitude" : "149.165247",
+  "equipment" : "This playground has 1 play area with a total of 2 structures, featuring a combination of play structures a swing.",
+  "latitude" : "-35.24946",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.165247",
+    "latitude" : "-35.24946"
+  },
+  "division_name" : "Hackett"
+}
+, {
+  "asset_id" : "Plgr445",
+  "location" : "Hall Park",
+  "longitude" : "149.070163",
+  "equipment" : "This playground has 2 play areas with a total of 5 structures, featuring a combination of play structures 2 rockers 2 swings.",
+  "latitude" : "-35.171626",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.070163",
+    "latitude" : "-35.171626"
+  },
+  "division_name" : "Hall"
+}
+, {
+  "asset_id" : "Plgr526",
+  "location" : "Tanami Street (Nw)",
+  "longitude" : "149.15737",
+  "equipment" : "This playground has 2 play areas with a total of 13 structures, featuring a balancing item a bridge 2 combinations of play structures 5 rockers 3 rotating items a swing.",
+  "latitude" : "-35.198155",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.15737",
+    "latitude" : "-35.198155"
+  },
+  "division_name" : "Harrison"
+}
+, {
+  "asset_id" : "Plgr357",
+  "location" : "Stapylton Street",
+  "longitude" : "149.044642",
+  "equipment" : "This playground has 2 play areas with a total of 5 structures, featuring 2 combinations of play structures 2 rockers a swing.",
+  "latitude" : "-35.337189",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.044642",
+    "latitude" : "-35.337189"
+  },
+  "division_name" : "Holder"
+}
+, {
+  "asset_id" : "Plgr584",
+  "location" : "Beaurepaire Crescent",
+  "longitude" : "149.012613",
+  "equipment" : "This playground has 2 play areas with a total of 3 structures, featuring a combination of play structures a rocker a swing.",
+  "latitude" : "-35.222237",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.012613",
+    "latitude" : "-35.222237"
+  },
+  "division_name" : "Holt"
+}
+, {
+  "asset_id" : "Plgr345",
+  "location" : "Dumolo Place",
+  "longitude" : "149.111165",
+  "equipment" : "This playground has 2 play areas with a total of 6 structures, featuring a combination of play structures 3 rockers a rotating item a swing.",
+  "latitude" : "-35.368328",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.111165",
+    "latitude" : "-35.368328"
+  },
+  "division_name" : "Isaacs"
+}
+, {
+  "asset_id" : "Plgr280",
+  "location" : "Findon Place",
+  "longitude" : "149.099351",
+  "equipment" : "This playground has 1 play area with a total of 4 structures, featuring a climbing structure a combination of play structures a rotating item a swing.",
+  "latitude" : "-35.424643",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.099351",
+    "latitude" : "-35.424643"
+  },
+  "division_name" : "Isabella Plains"
+}
+, {
+  "asset_id" : "Plgr305",
+  "location" : "Springbett Street",
+  "longitude" : "149.063373",
+  "equipment" : "This playground has 14 play areas with a total of 22 structures, featuring a balancing item 2 climbing structures a combination of play structures 2 flying foxes 4 rockers 4 rotating items 2 slides a sound tube 5 swings.",
+  "latitude" : "-35.39234",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.063373",
+    "latitude" : "-35.39234"
+  },
+  "division_name" : "Kambah"
+}
+, {
+  "asset_id" : "Plgr580",
+  "location" : "Summerland Circuit (North)",
+  "longitude" : "149.07126",
+  "equipment" : "This playground has 5 play areas with a total of 9 structures, featuring a monkey bar 3 climbing structures 2 exercise items a rotating item a slide a swing.",
+  "latitude" : "-35.385617",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.07126",
+    "latitude" : "-35.385617"
+  },
+  "division_name" : "Kambah"
+}
+, {
+  "asset_id" : "Plgr582",
+  "location" : "Boddington Crescent (North)",
+  "longitude" : "149.052145",
+  "equipment" : "This playground has 2 play areas with a total of 4 structures, featuring a climbing structure a combination of play structures a rotating item a swing.",
+  "latitude" : "-35.383321",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.052145",
+    "latitude" : "-35.383321"
+  },
+  "division_name" : "Kambah"
+}
+, {
+  "asset_id" : "Plgr500",
+  "location" : "Sandalwood Street",
+  "longitude" : "149.152744",
+  "equipment" : "This playground has 1 play area with a total of 4 structures, featuring a combination of play structures 2 rockers a swing.",
+  "latitude" : "-35.316802",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.152744",
+    "latitude" : "-35.316802"
+  },
+  "division_name" : "Kingston"
+}
+, {
+  "asset_id" : "Plgr98",
+  "location" : "Florey Drive",
+  "longitude" : "149.028527",
+  "equipment" : "This playground has 3 play areas with a total of 5 structures, featuring 3 combinations of play structures a rocker a swing.",
+  "latitude" : "-35.212681",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.028527",
+    "latitude" : "-35.212681"
+  },
+  "division_name" : "Latham"
+}
+, {
+  "asset_id" : "Plgr20",
+  "location" : "Cossington Smith Crescent",
+  "longitude" : "149.124034",
+  "equipment" : "This playground has 2 play areas with a total of 5 structures, featuring a combination of play structures a rocker a rotating item 2 swings.",
+  "latitude" : "-35.240842",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.124034",
+    "latitude" : "-35.240842"
+  },
+  "division_name" : "Lyneham"
+}
+, {
+  "asset_id" : "Plgr327",
+  "location" : "Bayly Place",
+  "longitude" : "149.128366",
+  "equipment" : "This playground has 2 play areas with a total of 12 structures, featuring a bridge a combination of play structures 3 rockers 3 rotating items 2 sound tubes 2 swings.",
+  "latitude" : "-35.40824",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.128366",
+    "latitude" : "-35.40824"
+  },
+  "division_name" : "Macarthur"
+}
+, {
+  "asset_id" : "Plgr43",
+  "location" : "Jamison Centre",
+  "longitude" : "149.071513",
+  "equipment" : "This playground has 1 play area with a total of 5 structures, featuring a combination of play structures 2 rotating items a sound tube a swing.",
+  "latitude" : "-35.253358",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.071513",
+    "latitude" : "-35.253358"
+  },
+  "division_name" : "Macquarie"
+}
+, {
+  "asset_id" : "Plgr405",
+  "location" : "Wilkins Street",
+  "longitude" : "149.098554",
+  "equipment" : "This playground has 1 play area with a total of 3 structures, featuring 2 combinations of play structures a swing.",
+  "latitude" : "-35.370296",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.098554",
+    "latitude" : "-35.370296"
+  },
+  "division_name" : "Mawson"
+}
+, {
+  "asset_id" : "Plgr142",
+  "location" : "Scarlett Street",
+  "longitude" : "149.053431",
+  "equipment" : "This playground has 1 play area with a total of 3 structures, featuring a combination of play structures a rocker a swing.",
+  "latitude" : "-35.211514",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.053431",
+    "latitude" : "-35.211514"
+  },
+  "division_name" : "Melba"
+}
+, {
+  "asset_id" : "Plgr643",
+  "location" : "National Arboretum",
+  "longitude" : "149.068673",
+  "equipment" : "This playground has 1 play area with a total of 13 structures, featuring 4 climbing structures 4 combinations of play structures 2 sandy play areas 2 sculptures a swing.",
+  "latitude" : "-35.287173",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.068673",
+    "latitude" : "-35.287173"
+  },
+  "division_name" : "Molonglo Valley"
+}
+, {
+  "asset_id" : "Plgr189",
+  "location" : "Carnegie Crescent",
+  "longitude" : "149.137832",
+  "equipment" : "This playground has 2 play areas with a total of 2 structures, featuring a combination of play structures a swing.",
+  "latitude" : "-35.337691",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.137832",
+    "latitude" : "-35.337691"
+  },
+  "division_name" : "Narrabundah"
+}
+, {
+  "asset_id" : "Plgr480",
+  "location" : "Paul Coe Crescent",
+  "longitude" : "149.1198",
+  "equipment" : "This playground has 1 play area with a total of 5 structures, featuring a combination of play structures 2 rockers a rotating item a swing.",
+  "latitude" : "-35.17467",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.1198",
+    "latitude" : "-35.17467"
+  },
+  "division_name" : "Ngunnawal"
+}
+, {
+  "asset_id" : "Plgr178",
+  "location" : "Finn Street",
+  "longitude" : "149.117883",
+  "equipment" : "This playground has 1 play area with a total of 5 structures, featuring 2 combinations of play structures a rotating item 2 swings.",
+  "latitude" : "-35.260858",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.117883",
+    "latitude" : "-35.260858"
+  },
+  "division_name" : "O'connor"
+}
+, {
+  "asset_id" : "Plgr404",
+  "location" : "Culgoa Circuit",
+  "longitude" : "149.106406",
+  "equipment" : "This playground has 1 play area with a total of 1 structure, featuring a combination of play structures.",
+  "latitude" : "-35.355149",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.106406",
+    "latitude" : "-35.355149"
+  },
+  "division_name" : "O'malley"
+}
+, {
+  "asset_id" : "Plgr187",
+  "location" : "Railway Street",
+  "longitude" : "149.227517",
+  "equipment" : "This playground has no play structures.",
+  "latitude" : "-35.341962",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.227517",
+    "latitude" : "-35.341962"
+  },
+  "division_name" : "Oaks Estate"
+}
+, {
+  "asset_id" : "Plgr537",
+  "location" : "Tidbinbilla Road",
+  "longitude" : "148.929933",
+  "equipment" : "This playground has 1 play area with a total of 13 structures, featuring a climbing structure a combination of play structures a flying fox a fort 6 rockers a slide a sound tube a swing.",
+  "latitude" : "-35.442916",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.929933",
+    "latitude" : "-35.442916"
+  },
+  "division_name" : "Paddys River"
+}
+, {
+  "asset_id" : "Plgr620",
+  "location" : "Coree - Cotter Road",
+  "longitude" : "148.941354",
+  "equipment" : "This playground has no play structures.",
+  "latitude" : "-35.323777",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.941354",
+    "latitude" : "-35.323777"
+  },
+  "division_name" : "Paddys River"
+}
+, {
+  "asset_id" : "Plgr451",
+  "location" : "Kosciuszko Avenue",
+  "longitude" : "149.119066",
+  "equipment" : "This playground has 1 play area with a total of 5 structures, featuring 2 combinations of play structures 2 rockers a swing.",
+  "latitude" : "-35.197304",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.119066",
+    "latitude" : "-35.197304"
+  },
+  "division_name" : "Palmerston"
+}
+, {
+  "asset_id" : "Plgr381",
+  "location" : "Launceston St",
+  "longitude" : "149.091225",
+  "equipment" : "This playground has 3 play areas with a total of 5 structures, featuring 2 climbing structures a combination of play structures a rocker a swing.",
+  "latitude" : "-35.341155",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.091225",
+    "latitude" : "-35.341155"
+  },
+  "division_name" : "Phillip"
+}
+, {
+  "asset_id" : "Plgr207",
+  "location" : "Golden Grove",
+  "longitude" : "149.126168",
+  "equipment" : "This playground has 1 play area with a total of 2 structures, featuring a combination of play structures a swing.",
+  "latitude" : "-35.335926",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.126168",
+    "latitude" : "-35.335926"
+  },
+  "division_name" : "Red Hill"
+}
+, {
+  "asset_id" : "Plgr185",
+  "location" : "Geerilong Gardens",
+  "longitude" : "149.143689",
+  "equipment" : "This playground has 1 play area with a total of 2 structures, featuring a combination of play structures a rocker.",
+  "latitude" : "-35.283074",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.143689",
+    "latitude" : "-35.283074"
+  },
+  "division_name" : "Reid"
+}
+, {
+  "asset_id" : "Plgr590",
+  "location" : "Rivett Place",
+  "longitude" : "149.038117",
+  "equipment" : "This playground has 2 play areas with a total of 9 structures, featuring 4 climbing structures a goal a slide 2 sound tubes a swing.",
+  "latitude" : "-35.347719",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.038117",
+    "latitude" : "-35.347719"
+  },
+  "division_name" : "Rivett"
+}
+, {
+  "asset_id" : "Plgr116",
+  "location" : "Hancock Street",
+  "longitude" : "149.064287",
+  "equipment" : "This playground has 1 play area with a total of 5 structures, featuring a bridge a combination of play structures a rocker a rotating item a swing.",
+  "latitude" : "-35.201657",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.064287",
+    "latitude" : "-35.201657"
+  },
+  "division_name" : "Spence"
+}
+, {
+  "asset_id" : "Plgr383",
+  "location" : "Bunbury Street",
+  "longitude" : "149.052179",
+  "equipment" : "This playground has 1 play area with a total of 5 structures, featuring a climbing structure a combination of play structures 2 rockers a track glide.",
+  "latitude" : "-35.347377",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.052179",
+    "latitude" : "-35.347377"
+  },
+  "division_name" : "Stirling"
+}
+, {
+  "asset_id" : "Plgr539",
+  "location" : "Cotter Road",
+  "longitude" : "148.954461",
+  "equipment" : "This playground has 1 play area with a total of 1 structure, featuring a combination of play structures.",
+  "latitude" : "-35.319939",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "148.954461",
+    "latitude" : "-35.319939"
+  },
+  "division_name" : "Stromlo (Rural)"
+}
+, {
+  "asset_id" : "Plgr398",
+  "location" : "Torrens Place",
+  "longitude" : "149.087933",
+  "equipment" : "This playground has 2 play areas with a total of 2 structures, featuring a combination of play structures a swing.",
+  "latitude" : "-35.373002",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.087933",
+    "latitude" : "-35.373002"
+  },
+  "division_name" : "Torrens"
+}
+, {
+  "asset_id" : "Plgr172",
+  "location" : "Condamine Street",
+  "longitude" : "149.123223",
+  "equipment" : "This playground has 1 play area with a total of 5 structures, featuring a combination of play structures 3 rockers a swing.",
+  "latitude" : "-35.267384",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.123223",
+    "latitude" : "-35.267384"
+  },
+  "division_name" : "Turner"
+}
+, {
+  "asset_id" : "Plgr271",
+  "location" : "Sangster Place",
+  "longitude" : "149.085641",
+  "equipment" : "This playground has 1 play area with a total of 9 structures, featuring a climbing structure a combination of play structures 3 rockers 3 rotating items a swing.",
+  "latitude" : "-35.390615",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.085641",
+    "latitude" : "-35.390615"
+  },
+  "division_name" : "Wanniassa"
+}
+, {
+  "asset_id" : "Plgr588",
+  "location" : "Dillon Close",
+  "longitude" : "149.055013",
+  "equipment" : "This playground has 3 play areas with a total of 7 structures, featuring a combination of play structures a goal a rocker 2 rotating items 2 swings.",
+  "latitude" : "-35.337036",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.055013",
+    "latitude" : "-35.337036"
+  },
+  "division_name" : "Weston"
+}
+, {
+  "asset_id" : "Plgr202",
+  "location" : "Mueller Street",
+  "longitude" : "149.10071",
+  "equipment" : "This playground has 4 play areas with a total of 2 structures, featuring a combination of play structures a swing.",
+  "latitude" : "-35.307112",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.10071",
+    "latitude" : "-35.307112"
+  },
+  "division_name" : "Yarralumla"
+}
+, {
+  "asset_id" : "Plgr211",
+  "location" : "Weston Park (East)",
+  "longitude" : "149.089487",
+  "equipment" : "This playground has 4 play areas with a total of 5 structures, featuring a climbing structure a combination of play structures a sculpture 2 swings.",
+  "latitude" : "-35.291804",
+  "location_1" : {
+    "needs_recoding" : false,
+    "longitude" : "149.089487",
+    "latitude" : "-35.291804"
+  },
+  "division_name" : "Yarralumla"
+}
+ ]
